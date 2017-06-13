@@ -7,8 +7,8 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: CognitiveVodaTV
-  host: CognitiveVodaTV
+  name: CognitiveVodaTVPOC3
+  host: CognitiveVodaTVPOC3
   disk_quota: 1024M
   services:
   - ConvNueva
