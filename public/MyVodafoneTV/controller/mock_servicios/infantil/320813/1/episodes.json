@@ -1,0 +1,403 @@
+{
+    "status": "ok",
+    "total_assets": 18,
+    "orientation": "mixed",
+    "assets": [
+        {
+            "id": 320964,
+            "name": "¡Gusano Marciano! - 08. Episodio 08",
+            "type_name": "episode",
+            "episode_number": "8",
+            "description": "Danny es un optimista niño de 12 años que crea una máquina del tiempo en su fiambrera y se hace amigo de un gusano del futuro que no tiene miedo a nada.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "7"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 320965,
+            "name": "¡Gusano Marciano! - 09. Episodio 09",
+            "type_name": "episode",
+            "episode_number": "9",
+            "description": "Danny es un optimista niño de 12 años que crea una máquina del tiempo en su fiambrera y se hace amigo de un gusano del futuro que no tiene miedo a nada.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "3"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 320966,
+            "name": "¡Gusano Marciano! - 07. Episodio 07",
+            "type_name": "episode",
+            "episode_number": "7",
+            "description": "Danny es un optimista niño de 12 años que crea una máquina del tiempo en su fiambrera y se hace amigo de un gusano del futuro que no tiene miedo a nada.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "11"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 321128,
+            "name": "¡Gusano Marciano! - 19. Episodio 19",
+            "type_name": "episode",
+            "episode_number": "19",
+            "description": "Danny ayuda a un turbio amigo de Gus del pasado.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "11"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 321129,
+            "name": "¡Gusano Marciano! - 20. Episodio 20",
+            "type_name": "episode",
+            "episode_number": "20",
+            "description": "Gus y Danny emprenden un viaje por carretera.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "3"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 321130,
+            "name": "¡Gusano Marciano! - 21. Episodio 21",
+            "type_name": "episode",
+            "episode_number": "21",
+            "description": "Gusano Marciano aprende cuál es el precio del sacrificio.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "7"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 321194,
+            "name": "¡Gusano Marciano! - 23. Episodio 23",
+            "type_name": "episode",
+            "episode_number": "23",
+            "description": "Danny es un optimista niño de 12 años que crea una máquina del tiempo en su fiambrera y se hace amigo de un gusano del futuro que no tiene miedo a nada.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "3"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 321195,
+            "name": "¡Gusano Marciano! - 24. Episodio 24",
+            "type_name": "episode",
+            "episode_number": "24",
+            "description": "Danny es un optimista niño de 12 años que crea una máquina del tiempo en su fiambrera y se hace amigo de un gusano del futuro que no tiene miedo a nada.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "7"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 321237,
+            "name": "¡Gusano Marciano! - 25. Episodio 25",
+            "type_name": "episode",
+            "episode_number": "25",
+            "description": "Danny es un optimista niño de 12 años que crea una máquina del tiempo en su fiambrera y se hace amigo de un gusano del futuro que no tiene miedo a nada.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "11"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 321238,
+            "name": "¡Gusano Marciano! - 26. Episodio 26",
+            "type_name": "episode",
+            "episode_number": "26",
+            "description": "Danny es un optimista niño de 12 años que crea una máquina del tiempo en su fiambrera y se hace amigo de un gusano del futuro que no tiene miedo a nada.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "3"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 321239,
+            "name": "¡Gusano Marciano! - 27. Episodio 27",
+            "type_name": "episode",
+            "episode_number": "27",
+            "description": "Danny es un optimista niño de 12 años que crea una máquina del tiempo en su fiambrera y se hace amigo de un gusano del futuro que no tiene miedo a nada.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "7"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 321269,
+            "name": "¡Gusano Marciano! - 29. Episodio 29",
+            "type_name": "episode",
+            "episode_number": "29",
+            "description": "Danny es un optimista niño de 12 años que crea una máquina del tiempo en su fiambrera y se hace amigo de un gusano del futuro que no tiene miedo a nada.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "3"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 321270,
+            "name": "¡Gusano Marciano! - 30. Episodio 30",
+            "type_name": "episode",
+            "episode_number": "30",
+            "description": "Danny es un optimista niño de 12 años que crea una máquina del tiempo en su fiambrera y se hace amigo de un gusano del futuro que no tiene miedo a nada.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "7"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 321271,
+            "name": "¡Gusano Marciano! - 28. Episodio 28",
+            "type_name": "episode",
+            "episode_number": "28",
+            "description": "Danny es un optimista niño de 12 años que crea una máquina del tiempo en su fiambrera y se hace amigo de un gusano del futuro que no tiene miedo a nada.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "11"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 321337,
+            "name": "¡Gusano Marciano! - 31. Episodio 31",
+            "type_name": "episode",
+            "episode_number": "31",
+            "description": "Danny es un optimista niño de 12 años que crea una máquina del tiempo en su fiambrera y se hace amigo de un gusano del futuro que no tiene miedo a nada.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "11"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 321338,
+            "name": "¡Gusano Marciano! - 32. Episodio 32",
+            "type_name": "episode",
+            "episode_number": "32",
+            "description": "Danny es un optimista niño de 12 años que crea una máquina del tiempo en su fiambrera y se hace amigo de un gusano del futuro que no tiene miedo a nada.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "3"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 321339,
+            "name": "¡Gusano Marciano! - 33. Episodio 33",
+            "type_name": "episode",
+            "episode_number": "33",
+            "description": "Danny es un optimista niño de 12 años que crea una máquina del tiempo en su fiambrera y se hace amigo de un gusano del futuro que no tiene miedo a nada.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "7"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 321415,
+            "name": "¡Gusano Marciano! - 22. Episodio 22",
+            "type_name": "episode",
+            "episode_number": "22",
+            "description": "Danny es un optimista niño de 12 años que crea una máquina del tiempo en su fiambrera y se hace amigo de un gusano del futuro que no tiene miedo a nada.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "11"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        }
+    ]
+}

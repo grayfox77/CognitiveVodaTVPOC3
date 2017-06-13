@@ -1,0 +1,744 @@
+{
+    "status": "ok",
+    "assets": [
+        {
+            "id": 305027,
+            "cid": 0,
+            "title": "Doctora Juguetes",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Doctora Juguetes"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "94704"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "94704"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001271"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2012
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/847e81c3d9c7480793d79095842bf853_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/847e81c3d9c7480793d79095842bf853_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 304567,
+            "cid": 0,
+            "title": "Liv y Maddie",
+            "description": "Maddie es elegida capitana del equipo de baloncesto justo cuando el director del instituto anuncia que va a dejar de financiar la actividad. Mientras, Parker y Joey intentan encontrar unas tarántulas que se le han escapado a Parker.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Rocha,Kali|Cameron,Dove|Bragg,Joey"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Liv y Maddie"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1|2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Rocha,Kali|Cameron,Dove|Bragg,Joey"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "183806"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "183806"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Maddie es elegida capitana del equipo de baloncesto justo cuando el director del instituto anuncia que va a dejar de financiar la actividad."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001161"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Dove Cameron, Joey Bragg, Kali Rocha"
+                },
+                {
+                    "key": "Year",
+                    "value": 2012
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/7c1e6a86b666490891549b79f770cc42_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/7c1e6a86b666490891549b79f770cc42_286X429.jpg"
+            },
+            "is_favorite": false
+        },              
+        {
+            "id": 320813,
+            "cid": 0,
+            "title": "¡Gusano Marciano!",
+            "description": "Gus nunca ha probado los cereales favoritos de Danny.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "¡Gusano Marciano!"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "239540"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "239540"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Gus nunca ha probado los cereales favoritos de Danny."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000009501"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/fef624e9cec24c509f472b482389ccfc_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/fef624e9cec24c509f472b482389ccfc_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 304693,
+            "cid": 0,
+            "title": "Disney Mickey Mouse",
+            "description": "Mickey y Donald deciden ayudar a su amigo Goofy para que consiga al amor de su vida.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Disney Mickey Mouse"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2|3"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "166128"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "166128"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Mickey y Donald deciden ayudar a su amigo Goofy para que consiga al amor de su vida."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001131"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/3348626beb234c0fad115b5d301ab167_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/3348626beb234c0fad115b5d301ab167_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 299820,
+            "cid": 0,
+            "title": "Los hermanos Kratt",
+            "description": "Los hermanos Kratt, Chris y Martin, viajan a maravillosos lugares del mundo y exploran la naturaleza, encontrando animales increíbles y descubriendo misterios de la vida silvestre. Con la ayuda de la brillante inventora y científica Aviva Corcovado y su equipo, en cada capítulo, los hermanos Kratt se ayudan de sus trajes con súper-poderes para transformarse y poder volar con halcones, nadar en las profundidades del mar con ballenas y pulpos gigantes o caminar sobre el agua con lagartijas curiosas, entre otras aventuras. Chris y Martin también usarán sus poderes para salvar a los animales de los villanos, que planean crear una tropa de robots biotécnicos, congelarlos y venderlos como joyería o hacer experimentos con ellos. Un mundo de animales exóticos, ciencia, peligros y aventuras fascinantes, con el que descubrir planeta y aprender a cuidar a los animales.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Canadá"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Los hermanos Kratt"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "3"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "38003"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "38003"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Los hermanos Kratt viajan a maravillosos lugares del mundo y viven aventuras llenas de misterios, peligros y rescates alucinantes."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "FDCA0000000000002801"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2014
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/7549d9b0138c44e99223be648d7d36d3_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/7549d9b0138c44e99223be648d7d36d3_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 298663,
+            "cid": 0,
+            "title": "Blaze y los Monster Machines",
+            "description": "AJ es un niño de ocho años aficionado a la tecnología que, junto a su camión Blaze, se encuentran en la cima de los corredores de Axle City. Piloto y camión viven juntos diversas aventuras y tendrán que resolver sus problemas con la ayuda de las ciencias y las matemáticas.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Blaze y los Monster Machines"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "238694"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "238694"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "AJ es un niño de ocho años aficionado a la tecnología que, junto a su camión Blaze, se encuentran en la cima de los corredores de Axle City."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NICJ0000000000001771"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2014
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/fc5ac7b7173b40ada0f9857411cf06b2_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/fc5ac7b7173b40ada0f9857411cf06b2_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 298665,
+            "cid": 0,
+            "title": "Dora, la exploradora",
+            "description": "Dora es una simpática niña que, junto con su amigo el mono Botas, transporta a los más pequeños a un mundo lleno de cuentos y aventuras. Durante el viaje, Dora pide ayuda a los niños para que tomen decisiones. De esta forma, fomenta su participación a lo largo del programa. Además, los pequeños espectadores disfrutarán con la mochila habladora de Dora, su mapa parlante e incluso aprenden inglés.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Dora, la exploradora"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "8"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "4928"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "4928"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Dora es una simpática niña que, junto con su amigo el mono Botas, transporta a los más pequeños a un mundo lleno de cuentos y aventuras."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NICJ0000000000001791"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2013
+                },
+                {
+                    "key": "Release year",
+                    "value": 2013
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/f0c6578044c848d2a040373914a2861f_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/f0c6578044c848d2a040373914a2861f_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+         {
+            "id": 305619,
+            "cid": 0,
+            "title": "La Casa de Mickey Mouse",
+            "description": "En este episodio la pastorcita Daisy pierde a sus diez ovejas.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Director",
+                    "value": "La Duca,Rob"
+                },
+                {
+                    "key": "Series name",
+                    "value": "La casa de Mickey Mouse"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "4974"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "4974"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "En este episodio la pastorcita Daisy pierde a sus diez ovejas."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001311"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2006
+                },
+                {
+                    "key": "Release year",
+                    "value": 2006
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/6e9662d7a00b4125bacaa6681a47973b_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/6e9662d7a00b4125bacaa6681a47973b_286X429.jpg"
+            },
+            "is_favorite": false
+        }, {
+            "id": 304572,
+            "cid": 0,
+            "title": "La Princesa Sofía",
+            "description": "Tras la boda de su madre con el Rey, Sofía se traslada a vivir a Palacio, donde deberá aprender a ser una princesa.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "La Princesa Sofía"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1|2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "148100"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "148100"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Tras la boda de su madre con el Rey, Sofía se traslada a vivir a Palacio, donde deberá aprender a ser una princesa."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001371"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2013
+                },
+                {
+                    "key": "Release year",
+                    "value": 2013
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/b4aee2c4b3ca470caf774aec8eded21a_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/b4aee2c4b3ca470caf774aec8eded21a_286X429.jpg"
+            },
+            "is_favorite": false
+        }
+    ],
+    "total_assets": 47,
+    "orientation": "2:3",
+    "name": "Series Infantiles"
+}

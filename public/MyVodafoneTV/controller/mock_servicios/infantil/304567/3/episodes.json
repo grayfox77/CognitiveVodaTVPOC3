@@ -1,0 +1,43 @@
+{
+    "status": "ok",
+    "total_assets": 2,
+    "orientation": "mixed",
+    "assets": [
+        {
+            "id": 308095,
+            "name": "Liv y Maddie - 01. Episodio 01",
+            "type_name": "episode",
+            "episode_number": "3",
+            "description": "Liv y Maddie Rooney no son las típicas hermanas gemelas. Liv se ha pasado cuatro años trabajando para llegar a ser una gran estrella de la televisión internacional, mientras que Maddie es brillante jugando al baloncesto.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                }
+            ]
+        },
+        {
+            "id": 309366,
+            "name": "Liv y Maddie - 02. Episodio 02",
+            "type_name": "episode",
+            "episode_number": "5",
+            "description": "Liv y Maddie Rooney no son las típicas hermanas gemelas. Liv se ha pasado cuatro años trabajando para llegar a ser una gran estrella de la televisión internacional, mientras que Maddie es brillante jugando al baloncesto.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                }
+            ]
+        }
+    ]
+}

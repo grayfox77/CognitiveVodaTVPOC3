@@ -1,0 +1,100 @@
+{
+    "status": "ok",
+    "medias": [
+        {
+            "id": 320385,
+            "cid": 0,
+            "title": "Childhood's End: El fin de la infancia",
+            "description": "Una presencia alienígena invade la Tierra con la intención de terminar con el sufrimiento y guiar a la humanidad hacia una utopía. Pero cuando los aliens se niegan a revelar su apariencia algunos se preguntan si este sueño será una pesadilla.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "13"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Betts,Daisy|Ikhile,Osy|Dance,Charles|Vogel,Mike"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Childhood's End: El fin de la infancia"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Ciencia Ficción"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Betts,Daisy|Ikhile,Osy|Dance,Charles|Vogel,Mike"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "532599"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "532599"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Una presencia alienígena invade la Tierra con la intención de terminar con el sufrimiento y guiar a la humanidad hacia una utopía."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NBCU0000000000009451"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Ciencia Ficción"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Charles Dance, Mike Vogel, Daisy Betts, Osy Ikhile"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "total_seasons": 1,
+            "seasons": [
+                1
+            ],
+            "type_name": "series",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/fd2ada59b78d4e0c939ae8c077247366_920X602.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/fd2ada59b78d4e0c939ae8c077247366_286X429.jpg"
+            },
+            "orientation": "2:3"
+        }
+    ]
+}

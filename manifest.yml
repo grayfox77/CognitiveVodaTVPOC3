@@ -1,0 +1,17 @@
+declared-services:
+  ConvNueva:
+    label: conversation
+    plan: standard
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: CognitiveVodaTV
+  host: CognitiveVodaTV
+  disk_quota: 1024M
+  services:
+  - ConvNueva
+  env:
+    NPM_CONFIG_PRODUCTION: 'false'
+  command: npm start

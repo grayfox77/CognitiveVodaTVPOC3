@@ -1,0 +1,207 @@
+{
+    "status": "ok",
+    "medias": [
+        {
+            "id": 321779,
+            "cid": 0,
+            "title": "Big Bang - 12. El resumen de las fiestas",
+            "description": "Tras pasar las vacaciones de verano separados, la pandilla se reúne para oir los comentarios del viaje de Sheldon y Amy con la madre de Sheldon, la aventura del árbol de Navidad de Leonard y Penny, y el primer día como padres de Howard y Bernadette.",
+            "files": {
+                "sd": {
+                    "file_id": 609997,
+                    "url": "http://vfottcdn.gb.vodafone.es/shss/TUBR2017010100218572/2.ism/Manifest?device=HSS_PC_ENC_VOD_SD"
+                }
+            },
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Galecki,Johnny|Cuoco,Kaley|Helberg,Simon|Parsons,Jim|Nayyar,Kunal"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Director",
+                    "value": "Cendrowski,Mark"
+                },
+                {
+                    "key": "Ono Package ID",
+                    "value": "VoD_FVOD"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Big Bang"
+                },
+                {
+                    "key": "Audio type",
+                    "value": "Stereo"
+                },
+                {
+                    "key": "Audio stream",
+                    "value": "spa,Stereo|eng,Stereo"
+                },
+                {
+                    "key": "Screen format",
+                    "value": "16:9"
+                },
+                {
+                    "key": "Rating Display",
+                    "value": "A"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Cuoco,Kaley|Helberg,Simon|Galecki,Johnny|Parsons,Jim|Nayyar,Kunal"
+                },
+                {
+                    "key": "Audio description available",
+                    "value": "es|en"
+                },
+                {
+                    "key": "ContentTags",
+                    "value": "s_en"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Comedia"
+                },
+                {
+                    "key": "Country_Tag",
+                    "value": "US"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "60877"
+                },
+                {
+                    "key": "Target",
+                    "value": "STB|DCTI384"
+                },
+                {
+                    "key": "Provider",
+                    "value": "Turner Broad"
+                },
+                {
+                    "key": "Provider ID",
+                    "value": "turnerbroad.com"
+                },
+                {
+                    "key": "Billing ID",
+                    "value": "21857"
+                },
+                {
+                    "key": "Licensing Window End",
+                    "value": "2017-01-29T23:00"
+                },
+                {
+                    "key": "External program ID",
+                    "value": "535039"
+                },
+                {
+                    "key": "Episode Name",
+                    "value": "12. El resumen de las fiestas"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Tras pasar las vacaciones de verano separados, la pandilla se reúne para hablar sobre ellas: el viaje de Sheldon y Amy con la madre de Sheldon..."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "TUBR2017010100218571"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Comedia"
+                },
+                {
+                    "key": "Display_Run_Time",
+                    "value": "00:20"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Johnny Galecki, Jim Parsons, Kaley Cuoco, Simon Helberg, Kunal Nayyar"
+                },
+                {
+                    "key": "Director display",
+                    "value": "Mark Cendrowski"
+                },
+                {
+                    "key": "Provider QA contact",
+                    "value": "turnerbroad.com"
+                },
+                {
+                    "key": "Episode number",
+                    "value": "12"
+                },
+                {
+                    "key": "SeriesId",
+                    "value": "60877"
+                },
+                {
+                    "key": "Episode title",
+                    "value": "El resumen de las fiestas"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "20"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Display as new",
+                    "value": 0
+                },
+                {
+                    "key": "Display as last chance",
+                    "value": 0
+                },
+                {
+                    "key": "Season number",
+                    "value": 10
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "episode_number": "12",
+            "season_number": 10,
+            "series_name": "Big Bang",
+            "series": {
+                "id": 299544,
+                "total_seasons": 1,
+                "seasons": [
+                    10
+                ],
+                "pictures": {
+                    "banner": "http://kal-images.ono.es/app_posters/3f6f36078cbd46238a9a14470e33cf89_302X170.jpg",
+                    "poster": "http://kal-images.ono.es/app_posters/3f6f36078cbd46238a9a14470e33cf89_286X429.jpg"
+                }
+            },
+            "type_name": "episode",
+            "pictures": {
+                "player": "http://kal-images.ono.es/app_posters/a6d9f52fdd634ec680f9dadf336c56b9_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/a6d9f52fdd634ec680f9dadf336c56b9_302X170.jpg"
+            },
+            "orientation": "2:3"
+        }
+    ]
+}

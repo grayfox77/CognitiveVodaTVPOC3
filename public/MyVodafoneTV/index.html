@@ -1,0 +1,141 @@
+<html ng-app="VodafoneTV">
+    <head>
+         <!--meta name="viewport" content="width=device-width, initial-scale=1"-->
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=0, width=device-width, height=device-height"/>
+        
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        
+        <script type="text/javascript" src="js/jquery-3.1.0.js"></script>
+        <script type="text/javascript" src="js/amplify.core.min.js"></script>
+        <script src="js/angular.min.js"></script>                
+        <script src="js/bootstrap.min.js"></script>
+        
+        <script src="directives/SpeechRecognitionDirective.js"></script>
+        <script src="js/modules/angular-sanitize/angular-sanitize.min.js"></script>
+        <script src="js/modules/videogular/videogular.js"></script>
+        <script src="js/modules/videogular-controls/vg-controls.js"></script>
+        <script src="js/modules/videogular-overlay-play/vg-overlay-play.js"></script>
+        <script src="js/modules/videogular-poster/vg-poster.js"></script>
+        <script src="js/modules/videogular-buffering/vg-buffering.js"></script>
+        
+        <!--script type="text/javascript" src="js/watson.js"></script-->
+        
+        <script type="text/javascript" src="app.js"></script>
+        <script type="text/javascript" src="services/services.js"></script>
+        <script type="text/javascript" src="controller/visualizerController.js"></script>
+        <script type="text/javascript" src="controller/chatController.js"></script>
+        
+
+    </head>
+    <body>
+        
+        <div class="container-fluid">            
+            <a class="vf-logo">
+                <img src="./img/vf-corner.png" >
+            </a>                
+            <div class="row header">
+                <div class="title-header"><h2>Vodafone TV</h2></div>
+            </div>
+            <div class="row maincontent">
+                <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8 content col-xs-height" ng-controller="VisualizerController">
+                    <div class="visualizer">
+                        <!-- CONTENIDO VISUALIZADOR -->
+                        <!-- ##################################################### -->
+                        <!--  CARGAMOS EL CONTENIDO MEDIANTE LA PLANTILLA INDICADA -->
+                        <!-- ##################################################### -->
+
+                        <!--div id="visualizerTemplate" class="visualizerTemplate" ng-include="'templates/carouselView.html'"></div-->
+                        <!--div id="visualizerTemplate" class="visualizerTemplate" ng-include="'templates/listView.html'"></div-->
+                        <div id="visualizerTemplate" class="visualizerTemplate" ng-include="contentTemplate"></div>
+                       		
+                        <!-- FIN CAROUSEL -->
+                        <!-- INICIO SECCIONES -->
+                        <!-- FIN SECCIONES -->
+                        <div class="secciones row">
+                            
+                            <div ng-click="getContentByType('Cine', false)" ng-class="classSprite.cine"> 
+                                <div name="Cine" class="cine-sprite xs-sprite" ></div>
+                                <!--img src="./img/cine.png" class="img-responsive" alt="Responsive image"-->
+                                <a class="xs-font-sprite">Cine</a>
+                            </div>                            
+                            <div ng-click="getContentByType('Series', false)" ng-class="classSprite.series"> 
+                                <div name="Series" class="series-sprite xs-sprite" ></div>
+                                <!--img src="./img/series.png" class="img-responsive" alt="Responsive image"-->
+                                <a class="xs-font-sprite">Series</a>
+                            </div>
+                            
+                            <div ng-class="classSprite.deportes" > 
+                                <div name="Deportes" class="deportes-sprite xs-sprite"></div>
+                                <!--img src="./img/deportes.png" class="img-responsive" alt="Responsive image"-->
+                                <a class="xs-font-sprite">Deportes</a>
+                            </div>
+                            
+                            <!--div>
+                                <div class="entretenimiento-sprite xs-sprite"></div>
+                                
+                                <a class="xs-font-sprite">Entretenimiento</a>
+                            </div-->
+                            
+                            <div ng-class="classSprite.documentales"> 
+                                <div name="Documentales" class="documentales-sprite xs-sprite"></div>
+                                <!--img src="./img/documentales.png" class="img-responsive" alt="Responsive image"-->
+                                <a class="xs-font-sprite">Documentales</a>
+                            </div>
+                            
+                            <div ng-click="getContentByType('Infantil', false)" ng-class="classSprite.infantil" > 
+                                <div name="Infantil" class="infantiles-sprite xs-sprite" ></div>
+                                <!--img src="./img/infantiles.png" class="img-responsive" alt="Responsive image"-->
+                                <a class="xs-font-sprite">Infantil</a>
+                            </div>
+                            
+                            <div ng-class="classSprite.musica" > 
+                                <div name="Musica" class="musica-sprite xs-sprite"></div>
+                                <!--img src="./img/musica.png" class="img-responsive" alt="Responsive image"-->
+                                <a class="xs-font-sprite">M&uacute;sica</a>
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+                <!-- CHAT -->
+                <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 content col-xs-height" ng-controller="ChatController">
+                    <div class="watsonchat">
+                        <div class="panel panel-primary">
+                            <div class="head-chat panel-heading">
+                                <h3 class="panel-title">Vodafone TV</h3>
+                            </div>
+                            <div class="content-chat panel-body">
+                                <div id="conversation_container" class="conversation-output row">
+                                    <!--div class="chat-bubble alert alert-success" role="alert">
+                                        Hola, &iquest;en que puedo ayudarte?
+                                    </div>
+                                    <div class="chat-bubble alert alert-info" role="alert">
+                                        Me gustaria ver peliculas
+                                    </div-->
+                                </div>
+                                <div class="conversation-input row">
+                                    <input type="text" class="form-control col-sm-9 col-md-9" id="inputMessage" placeholder="Habla con Vodi ..."  ng-keydown="send($event)" ng-model="inputMessage"></input>
+                                    <div class="col-sm-1 col-md-1"></div>
+                                    <button type="button" class="btn btn-danger btn-lg col-sm-2 col-md-2" ng-speech-recognition-start ng-speech-recognition-end="displayTranscript()" ng-show="checkSpeech()">
+                                        <span class="glyphicon glyphicon-volume-up" aria-hidden="true"></span>
+                                    </button>
+                                </div>                                
+                                
+                                
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row footer"></div>
+        </div>        
+    </body>
+    <!-- footer class="footer">
+            <div class="container">
+                PIE DE PAGINA
+            </div>
+    </footer -->
+</html>

@@ -1,0 +1,207 @@
+{
+    "status": "ok",
+    "medias": [
+        {
+            "id": 321018,
+            "cid": 0,
+            "title": "Ley y orden: Unidad de Víctimas Especiales - 06. Instintos maternales",
+            "description": "Rollins se encuentra en una situación sin salida cuando su hermana se convierte en la figura clave de un complejo caso de violación, droga y robo de una flauta con mucho valor.",
+            "files": {
+                "sd": {
+                    "file_id": 605597,
+                    "url": "http://vfottcdn.gb.vodafone.es/shss/NBCU2016120100213112/2.ism/Manifest?device=HSS_PC_ENC_VOD_SD"
+                }
+            },
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Hargitay,Mariska|,Ice-T"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Director",
+                    "value": "Pressman,Michael"
+                },
+                {
+                    "key": "Ono Package ID",
+                    "value": "VoD_FVOD"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Ley y orden: Unidad de Víctimas Especiales"
+                },
+                {
+                    "key": "Audio type",
+                    "value": "Stereo"
+                },
+                {
+                    "key": "Audio stream",
+                    "value": "spa,Stereo|eng,Stereo"
+                },
+                {
+                    "key": "Screen format",
+                    "value": "16:9"
+                },
+                {
+                    "key": "Rating Display",
+                    "value": "12"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Hargitay,Mariska|,Ice-T"
+                },
+                {
+                    "key": "Audio description available",
+                    "value": "es|en"
+                },
+                {
+                    "key": "ContentTags",
+                    "value": "s_en"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Policíaca"
+                },
+                {
+                    "key": "Country_Tag",
+                    "value": "US"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "5548"
+                },
+                {
+                    "key": "Target",
+                    "value": "STB|DCTI384"
+                },
+                {
+                    "key": "Provider",
+                    "value": "NBC universal"
+                },
+                {
+                    "key": "Provider ID",
+                    "value": "nbcunivers.es"
+                },
+                {
+                    "key": "Billing ID",
+                    "value": "21311"
+                },
+                {
+                    "key": "Licensing Window End",
+                    "value": "2017-01-14T00:00"
+                },
+                {
+                    "key": "External program ID",
+                    "value": "540033"
+                },
+                {
+                    "key": "Episode Name",
+                    "value": "06. Instintos maternales"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Rollins se encuentra en una situación sin salida cuando su hermana se convierte en la figura clave de un complejo caso de violación, droga y robo."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NBCU2016120100213111"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Policíaca"
+                },
+                {
+                    "key": "Display_Run_Time",
+                    "value": "00:40"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Mariska Hargitay, Ice-T"
+                },
+                {
+                    "key": "Director display",
+                    "value": "Michael Pressman"
+                },
+                {
+                    "key": "Provider QA contact",
+                    "value": "nbcunivers.es"
+                },
+                {
+                    "key": "Episode number",
+                    "value": "6"
+                },
+                {
+                    "key": "SeriesId",
+                    "value": "5548"
+                },
+                {
+                    "key": "Episode title",
+                    "value": "Instintos maternales"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "40"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Display as new",
+                    "value": 0
+                },
+                {
+                    "key": "Display as last chance",
+                    "value": 0
+                },
+                {
+                    "key": "Season number",
+                    "value": 17
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "episode_number": "6",
+            "season_number": 17,
+            "series_name": "Ley y orden: Unidad de Víctimas Especiales",
+            "series": {
+                "id": 299150,
+                "total_seasons": 1,
+                "seasons": [
+                    17
+                ],
+                "pictures": {
+                    "banner": "http://kal-images.ono.es/app_posters/c95141ce7ba4409dbba08f141cfb8d51_302X170.jpg",
+                    "poster": "http://kal-images.ono.es/app_posters/c95141ce7ba4409dbba08f141cfb8d51_286X429.jpg"
+                }
+            },
+            "type_name": "episode",
+            "pictures": {
+                "player": "http://kal-images.ono.es/app_posters/c1cbc5181e0647f7b3f5276159110db0_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/c1cbc5181e0647f7b3f5276159110db0_302X170.jpg"
+            },
+            "orientation": "2:3"
+        }
+    ]
+}

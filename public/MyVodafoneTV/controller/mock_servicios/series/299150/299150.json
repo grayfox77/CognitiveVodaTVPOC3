@@ -1,0 +1,100 @@
+{
+    "status": "ok",
+    "medias": [
+        {
+            "id": 299150,
+            "cid": 0,
+            "title": "Ley y orden: Unidad de Víctimas Especiales",
+            "description": "La Unidad intenta destapar los secretos que esconde Carl Rudrick, el médico forense de Manhattan. Un conocido del Dr. Yates será la figura clave que ayude a resolver el caso.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Hargitay,Mariska|,Ice-T"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Ley y orden: Unidad de Víctimas Especiales"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "17"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Policíaca"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Hargitay,Mariska|,Ice-T"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "5548"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "5548"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "La Unidad intenta destapar los secretos que esconde Carl Rudrick, el médico forense de Manhattan. Un conocido del Dr. Yates será clave para resolver el caso."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NBCU0000000000001501"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Policíaca"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Mariska Hargitay, Ice-T"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "total_seasons": 1,
+            "seasons": [
+                17
+            ],
+            "type_name": "series",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/c95141ce7ba4409dbba08f141cfb8d51_920X602.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/c95141ce7ba4409dbba08f141cfb8d51_286X429.jpg"
+            },
+            "orientation": "2:3"
+        }
+    ]
+}

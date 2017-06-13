@@ -1,0 +1,47 @@
+{
+    "status": "ok",
+    "total_assets": 2,
+    "orientation": "mixed",
+    "assets": [
+        {
+            "id": 305077,
+            "name": "Disney Mickey Mouse - 01. A ciegas",
+            "type_name": "episode",
+            "episode_number": "1",
+            "description": "Descubre las nuevas aventuras de todo un clásico de Disney: Mickey Mouse.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "3"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                }
+            ]
+        },
+        {
+            "id": 308691,
+            "name": "Disney Mickey Mouse - 06. Un coche con poca marcha",
+            "type_name": "episode",
+            "episode_number": "6",
+            "description": "Descubre las nuevas aventuras de todo un clásico de Disney: Mickey Mouse.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "3"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+<div id="itemTemplate" class='form item row'>
+    <!--div class="col-md-12 item-content" ng-style ="{'background-image': 'url(' + viewitem.url + ')' }"-->
+    <div class="col-md-12 item-content">
+        <img src="{{ (currentContentType==='Cine') ? itemDetail.urldetail : itemDetail.url}}" />
+        <div class="item-leyend">
+            <h1 id="itemTitle">{{itemDetail.title}}</h1>
+            <h5 id="itemDesc">{{itemDetail.description}}</h5>
+        </div>
+        <a class="play-btn" ng-click="loadPlayer(itemDetail)">
+            <span class="glyphicon glyphicon-play-circle" aria-hidden="true"></span>
+        </a>
+    </div>
+    
+</div>

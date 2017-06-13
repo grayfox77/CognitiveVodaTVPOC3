@@ -1,0 +1,73 @@
+{
+    "status": "ok",
+    "total_assets": 3,
+    "orientation": "mixed",
+    "assets": [
+        {
+            "id": 320676,
+            "name": "Childhood's End: El fin de la infancia - 01. Primera parte Los Amos",
+            "type_name": "episode",
+            "episode_number": "1",
+            "description": "Una presencia alienígena invade la Tierra con la intención de terminar con el sufrimiento y guiar a la humanidad hacia una utopía. Pero cuando los aliens se niegan a revelar su apariencia algunos se preguntan si este sueño será una pesadilla.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "13"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "78"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 320971,
+            "name": "Childhood's End: El fin de la infancia - 02. Segunda parte. Los impostores",
+            "type_name": "episode",
+            "episode_number": "2",
+            "description": "Es la edad dorada de la paz en el mundo, algunos humanos comienzan a notar ciertos cambios en el comportamiendo de los niños y les lleva a cuestionarse las motivaciones de los aliens.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "13"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "81"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 321210,
+            "name": "Childhood's End: El fin de la infancia - 03. Tercera parte. Los niños",
+            "type_name": "episode",
+            "episode_number": "3",
+            "description": "Una nueva era comienza en todo el mundo cuando los niños de todos los paises empiezan a desarrollar poderes sobrenaturales. A las generaciones más mayores les preocupa la repercusión que puede tener esto en el futuro de la humanidad.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "13"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "76"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        }
+    ]
+}

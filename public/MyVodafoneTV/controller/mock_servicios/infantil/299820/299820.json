@@ -1,0 +1,88 @@
+{
+    "status": "ok",
+    "medias": [
+        {
+            "id": 299820,
+            "cid": 0,
+            "title": "Los hermanos Kratt",
+            "description": "Los hermanos Kratt, Chris y Martin, viajan a maravillosos lugares del mundo y exploran la naturaleza, encontrando animales increíbles y descubriendo misterios de la vida silvestre. Con la ayuda de la brillante inventora y científica Aviva Corcovado y su equipo, en cada capítulo, los hermanos Kratt se ayudan de sus trajes con súper-poderes para transformarse y poder volar con halcones, nadar en las profundidades del mar con ballenas y pulpos gigantes o caminar sobre el agua con lagartijas curiosas, entre otras aventuras. Chris y Martin también usarán sus poderes para salvar a los animales de los villanos, que planean crear una tropa de robots biotécnicos, congelarlos y venderlos como joyería o hacer experimentos con ellos. Un mundo de animales exóticos, ciencia, peligros y aventuras fascinantes, con el que descubrir planeta y aprender a cuidar a los animales.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Canadá"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Los hermanos Kratt"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "3"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "38003"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "38003"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Los hermanos Kratt viajan a maravillosos lugares del mundo y viven aventuras llenas de misterios, peligros y rescates alucinantes."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "FDCA0000000000002801"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2014
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "total_seasons": 1,
+            "seasons": [
+                3
+            ],
+            "type_name": "series",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/7549d9b0138c44e99223be648d7d36d3_920X602.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/7549d9b0138c44e99223be648d7d36d3_286X429.jpg"
+            },
+            "orientation": "2:3"
+        }
+    ]
+}

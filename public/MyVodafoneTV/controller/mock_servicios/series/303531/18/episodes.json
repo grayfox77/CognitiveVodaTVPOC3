@@ -1,0 +1,29 @@
+{
+    "status": "ok",
+    "total_assets": 1,
+    "orientation": "mixed",
+    "assets": [
+        {
+            "id": 322122,
+            "name": "Cuéntame cómo pasó - 01. He nacido para hacerme la vida imposible",
+            "type_name": "episode",
+            "episode_number": "1",
+            "description": "Abril de 1985. En su celebración de cumpleaños, Paquita invita a todos los Alcántara a cenar en El Descanso, un lugar muy popular entre los militares americanos de la base de Torrejón de Ardoz. Pocas horas después, el restaurante será portada de todos los periódicos e informativos, puse allí se ha producido el primer atentado yihadista de la historia de España.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "79"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2017
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "status": "ok",
+    "total_assets": 3,
+    "orientation": "mixed",
+    "assets": [
+        {
+            "id": 305418,
+            "name": "La Casa de Mickey Mouse - 01. La pastorcita Daisy",
+            "type_name": "episode",
+            "episode_number": "1",
+            "description": "En este episodio la pastorcita Daisy pierde a sus diez ovejas.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "23"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2006
+                }
+            ]
+        },
+        {
+            "id": 305671,
+            "name": "La Casa de Mickey Mouse - 03. El pájaro de Goofy",
+            "type_name": "episode",
+            "episode_number": "3",
+            "description": "El nuevo sombrero de Goofy es un nido con un huevo. Cuando el huevo se rompe, Goofy se propone devolver a Baby Red Bird a su madre.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "23"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2006
+                }
+            ]
+        },
+        {
+            "id": 307468,
+            "name": "La Casa de Mickey Mouse - 02. Una sorpresa para Minnie",
+            "type_name": "episode",
+            "episode_number": "2",
+            "description": "Mickey se olvida de que es el día de San Valentín y tiene que hacer una tarjeta para Minnie.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "23"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2006
+                }
+            ]
+        }
+    ]
+}

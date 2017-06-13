@@ -1,0 +1,80 @@
+{
+    "status": "ok",
+    "medias": [
+        {
+            "id": 304693,
+            "cid": 0,
+            "title": "Disney Mickey Mouse",
+            "description": "Mickey y Donald deciden ayudar a su amigo Goofy para que consiga al amor de su vida.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Disney Mickey Mouse"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2|3"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "166128"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "166128"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Mickey y Donald deciden ayudar a su amigo Goofy para que consiga al amor de su vida."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001131"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "total_seasons": 1,
+            "seasons": [
+                3
+            ],
+            "type_name": "series",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/3348626beb234c0fad115b5d301ab167_920X602.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/3348626beb234c0fad115b5d301ab167_286X429.jpg"
+            },
+            "orientation": "2:3"
+        }
+    ]
+}

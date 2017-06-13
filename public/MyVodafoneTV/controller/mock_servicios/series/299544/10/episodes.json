@@ -1,0 +1,29 @@
+{
+    "status": "ok",
+    "total_assets": 1,
+    "orientation": "mixed",
+    "assets": [
+        {
+            "id": 321779,
+            "name": "Big Bang - 12. El resumen de las fiestas",
+            "type_name": "episode",
+            "episode_number": "12",
+            "description": "Tras pasar las vacaciones de verano separados, la pandilla se reúne para oir los comentarios del viaje de Sheldon y Amy con la madre de Sheldon, la aventura del árbol de Navidad de Leonard y Penny, y el primer día como padres de Howard y Bernadette.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "20"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "status": "ok",
+    "total_assets": 4,
+    "orientation": "mixed",
+    "assets": [
+        {
+            "id": 305506,"name": "La Princesa Sofía - 02. La gran fiesta de pijamas",
+            "type_name": "episode",
+            "episode_number": "2",
+            "description": "Sofía invita a sus antiguas amigas a una fiesta real y para que no desentonen les enseña cómo deben comportarse.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2013
+                }
+            ]
+        },
+        {
+            "id": 305540,"name": "La Princesa Sofía - 04. La Aprendiza de Cedric",
+            "type_name": "episode",
+            "episode_number": "4",
+            "description": "Sofía se tiene que preparar para el examen de magia, así que decide pedir ayuda a Cedric y se convierte en su aprendiz.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2013
+                }
+            ]
+        },
+        {
+            "id": 308049,"name": "La Princesa Sofía - 01. Sólo una princesa más",
+            "type_name": "episode",
+            "episode_number": "1",
+            "description": "Tras la boda de su madre con el Rey, Sofía se traslada a vivir a Palacio, donde deberá aprender a ser una princesa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "21"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2013
+                }
+            ]
+        },
+        {
+            "id": 308561,"name": "La Princesa Sofía - 03. Que suenen los trolls",
+            "type_name": "episode",
+            "episode_number": "3",
+            "description": "Sofía se hace amiga de los trolls que viven en una cueva cerca del castillo y a raíz de esta amistad enseña a su familia una lección sobre no juzgar a los demás sin antes conocerlos.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "21"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2013
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "status": "ok",
+    "total_assets": 1,
+    "orientation": "mixed",
+    "assets": [
+        {
+            "id": 321583,
+            "name": "Black-ish - 07. Gracias Almaviligerais",
+            "type_name": "episode",
+            "episode_number": "7",
+            "description": "La hermana mayor de Pops llega inesperadamente para el Día de Acción de Gracias. Los niños tratan de averiguar por qué Ruby la odia.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "20"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "status": "ok",
+    "total_assets": 5,
+    "orientation": "mixed",
+    "assets": [
+        {
+            "id": 321244,"name": "Liv y Maddie - 01. Estreno Rooney",
+            "type_name": "episode",
+            "episode_number": "1",
+            "description": "Liv se compromete a asistir, por primera vez en cuatro años, al Wisconsin Cheddar Brat Cheese Eating Contents, pero el estreno de una película pone en peligro que pueda asistir al concurso con Maddie.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "21"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 306924,"name": "Liv y Maddie - 02. La cerámica Rooney",
+            "type_name": "episode",
+            "episode_number": "2",
+            "description": "Liv y Maddie Rooney no son las típicas hermanas gemelas. Liv se ha pasado cuatro años trabajando para llegar a ser una gran estrella de la televisión internacional, mientras que Maddie es brillante jugando al baloncesto.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 307236,"name": "Liv y Maddie - 03. La leonera Rooney",
+            "type_name": "episode",
+            "episode_number": "3",
+            "description": "Liv y Maddie Rooney no son las típicas hermanas gemelas. Liv se ha pasado cuatro años trabajando para llegar a ser una gran estrella de la televisión internacional, mientras que Maddie es brillante jugando al baloncesto.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 306995,"name": "Liv y Maddie - 04. Kathy Kan y los Rooney",
+            "type_name": "episode",
+            "episode_number": "4",
+            "description": "Liv y Maddie Rooney no son las típicas hermanas gemelas. Liv se ha pasado cuatro años trabajando para llegar a ser una gran estrella de la televisión internacional, mientras que Maddie es brillante jugando al baloncesto.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 307054,"name": "Liv y Maddie - 05. Parejas Rooney",
+            "type_name": "episode",
+            "episode_number": "5",
+            "description": "Liv y Maddie Rooney no son las típicas hermanas gemelas. Liv se ha pasado cuatro años trabajando para llegar a ser una gran estrella de la televisión internacional, mientras que Maddie es brillante jugando al baloncesto.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        }
+       
+        
+    ]
+}

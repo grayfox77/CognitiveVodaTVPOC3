@@ -1,0 +1,192 @@
+{
+    "status": "ok",
+    "medias": [
+        {
+            "id": 309366,
+            "cid": 0,
+            "title": "Liv y Maddie - 02. Episodio 02",
+            "description": "Liv y Maddie Rooney no son las típicas hermanas gemelas. Liv se ha pasado cuatro años trabajando para llegar a ser una gran estrella de la televisión internacional, mientras que Maddie es brillante jugando al baloncesto.",
+            "files": {
+                "sd": {
+                    "file_id": 556926,
+                    "url": "http://vfottcdn.gb.vodafone.es/shss/DISN2016033000245072/2.ism/Manifest?device=HSS_PC_ENC_VOD_SD"
+                }
+            },
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Rocha,Kali|Cameron,Dove|Bragg,Joey"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Ono Package ID",
+                    "value": "VoD_FVOD"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Liv y Maddie"
+                },
+                {
+                    "key": "Audio type",
+                    "value": "Stereo"
+                },
+                {
+                    "key": "Audio stream",
+                    "value": "spa,Stereo|eng,Stereo"
+                },
+                {
+                    "key": "Screen format",
+                    "value": "16:9"
+                },
+                {
+                    "key": "Rating Display",
+                    "value": "A"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Rocha,Kali|Cameron,Dove|Bragg,Joey"
+                },
+                {
+                    "key": "Audio description available",
+                    "value": "es|en"
+                },
+                {
+                    "key": "ContentTags",
+                    "value": "s_en"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Country_Tag",
+                    "value": "US"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "183806"
+                },
+                {
+                    "key": "Target",
+                    "value": "STB|DCTI384"
+                },
+                {
+                    "key": "Provider",
+                    "value": "Disney"
+                },
+                {
+                    "key": "Provider ID",
+                    "value": "disney.com"
+                },
+                {
+                    "key": "Billing ID",
+                    "value": "24507"
+                },
+                {
+                    "key": "Licensing Window End",
+                    "value": "2017-01-11T00:00"
+                },
+                {
+                    "key": "External program ID",
+                    "value": "78910"
+                },
+                {
+                    "key": "Episode Name",
+                    "value": "05. Episodio 05"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Liv y Maddie Rooney no son las típicas gemelas. Liv trabaja para ser una estrella de la televisión y Maddie es brillante jugando al baloncesto."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN2016033000245071"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Display_Run_Time",
+                    "value": "00:22"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Dove Cameron, Joey Bragg, Kali Rocha"
+                },
+                {
+                    "key": "Provider QA contact",
+                    "value": "disney.com"
+                },
+                {
+                    "key": "Episode number",
+                    "value": "5"
+                },
+                {
+                    "key": "SeriesId",
+                    "value": "183806"
+                },
+                {
+                    "key": "Episode title",
+                    "value": "Episodio 05"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Display as new",
+                    "value": 0
+                },
+                {
+                    "key": "Display as last chance",
+                    "value": 0
+                },
+                {
+                    "key": "Season number",
+                    "value": 3
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "episode_number": "5",
+            "season_number": 3,
+            "series_name": "Liv y Maddie",
+            "series": {
+                "id": 304567,
+                "total_seasons": 2,
+                "seasons": [
+                    2,
+                    3
+                ],
+                "pictures": {
+                    "banner": "http://kal-images.ono.es/app_posters/692932dde5d64b73a0340459c719154b_302X170.jpg",
+                    "poster": "http://kal-images.ono.es/app_posters/692932dde5d64b73a0340459c719154b_286X429.jpg"
+                }
+            },
+            "type_name": "episode",
+            "pictures": {
+                "player": "http://kal-images.ono.es/app_posters/049d28970eae4070914fc36cb469d9f7_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/049d28970eae4070914fc36cb469d9f7_302X170.jpg"
+            },
+            "orientation": "2:3"
+        }
+    ]
+}

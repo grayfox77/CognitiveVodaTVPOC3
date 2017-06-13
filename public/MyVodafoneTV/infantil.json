@@ -1,0 +1,996 @@
+{
+    "status": "ok",
+    "assets": [
+        {
+            "id": 306432,
+            "cid": 0,
+            "title": "Star Wars Rebels",
+            "description": "La historia de los comienzos de la rebelión. Mientras, en el Imperio se extiende la tiranía a través de la Galaxia.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Star Wars Rebels"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "3"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "213375"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "213375"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "La historia de los comienzos de la rebelión. Mientras, en el Imperio se extiende la tiranía a través de la Galaxia."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001211"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/d6afd9946ad64dd5840dc4742f79971e_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/d6afd9946ad64dd5840dc4742f79971e_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 308269,
+            "cid": 0,
+            "title": "Mia and me",
+            "description": "Mia se va a pasar las vacaciones de verano con su abuelo Renzo, al campo. Pero enseguida descubre que su abuelo tiene grandes problemas económicos y que el banco amenaza con quitarle su vieja granja. Su vecina, Contessa di Nola, madre de Violetta (la archienemiga de Mia), tiene mucho interés en la granja, ya que a ella le gustaría expandir su propia finca. Violetta y su madre harán todo lo posible para perjudicar a Mia. Tras descubrir que Saphir, el caballo de Contessa di Nola, va a ser sacrificado, Mia se embarca en la misión de defender al animal, al tiempo que salva la granja de Renzo. Violetta continúa con su curiosidad por el libro mágico de Mia y, a través de un extraño accidente, consigue viajar a Centopia. Allí, Violetta adquiere una nueva identidad como La Princesa Varia, haciendo las cosas aún más complicadas para Mia, Yuko y Mo.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Alemania"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Mia and me"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "180749"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "180749"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Mia se va a pasar las vacaciones de verano al campo, con su abuelo Renzo. Pero enseguida descubre que su abuelo tiene grandes problemas económicos."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "FDCA0000000000000631"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2015
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/674674639d434377b2b750e779e8effd_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/674674639d434377b2b750e779e8effd_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 320813,
+            "cid": 0,
+            "title": "¡Gusano Marciano!",
+            "description": "Gus nunca ha probado los cereales favoritos de Danny.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "¡Gusano Marciano!"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "239540"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "239540"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Gus nunca ha probado los cereales favoritos de Danny."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000009501"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/fef624e9cec24c509f472b482389ccfc_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/fef624e9cec24c509f472b482389ccfc_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 304693,
+            "cid": 0,
+            "title": "Disney Mickey Mouse",
+            "description": "Mickey y Donald deciden ayudar a su amigo Goofy para que consiga al amor de su vida.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Disney Mickey Mouse"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2|3"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "166128"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "166128"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Mickey y Donald deciden ayudar a su amigo Goofy para que consiga al amor de su vida."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001131"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/3348626beb234c0fad115b5d301ab167_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/3348626beb234c0fad115b5d301ab167_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 304571,
+            "cid": 0,
+            "title": "Miles del futuro",
+            "description": "Loretta descubre un planeta oculto lleno de nieve y hielo.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Miles del futuro"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "238557"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "238557"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Loretta descubre un planeta oculto lleno de nieve y hielo."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001321"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2015
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/3e58af65c55a4bed86dbfae79b55ff71_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/3e58af65c55a4bed86dbfae79b55ff71_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 305100,
+            "cid": 0,
+            "title": "Jake y los piratas de Nunca Jamás",
+            "description": "Jake y su tripulación se divierten en la playa o en Isla Pirata, y se ven envueltos en una nueva aventura en cada capítulo, siempre ante la atenta mirada del Capitán Garfio.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Jake y los piratas de Nunca Jamás"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "35476"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "35476"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Jake y sus amigos viven nuevas y divertidas aventuras."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001301"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2012
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/4e31c680b3f948398f12fc604cddff44_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/4e31c680b3f948398f12fc604cddff44_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 305116,
+            "cid": 0,
+            "title": "Callie en el Oeste",
+            "description": "¡Toby se encuentra un \"poni con pinchos\" y cree que Papá Noel le ha regalado la montura que le había pedido!",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Callie en el Oeste"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "197141"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "197141"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "¡Toby se encuentra un \"poni con pinchos\" y cree que Papá Noel le ha regalado la montura que le había pedido!"
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001281"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/ff25f1eb14904611b9a293664c24640d_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/ff25f1eb14904611b9a293664c24640d_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 304572,
+            "cid": 0,
+            "title": "La Princesa Sofía",
+            "description": "Tras la boda de su madre con el Rey, Sofía se traslada a vivir a Palacio, donde deberá aprender a ser una princesa.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "La Princesa Sofía"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "3"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "148100"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "148100"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Tras la boda de su madre con el Rey, Sofía se traslada a vivir a Palacio, donde deberá aprender a ser una princesa."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001371"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2014
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/67578be782be4e15ac13880ec987c146_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/67578be782be4e15ac13880ec987c146_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 304570,
+            "cid": 0,
+            "title": "K.C. Agente Especial",
+            "description": "K.C. Cooper, un genio de las matemáticas en el instituto y cinturón negro de karate, descubre que sus padres son espías cuando la reclutan para unirse a ellos bajo la dirección de una agencia secreta gubernamental llamada The Organization.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "McFadden,Kamil|Stokes,Trinitee|,Zendaya|Dunne,Veronica"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "K.C. Agente Especial"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1|2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "McFadden,Kamil|Stokes,Trinitee|,Zendaya|Dunne,Veronica"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "239697"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "239697"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "K.C. Cooper, un genio de las matemáticas en el instituto y cinturón negro de karate, descubre que sus padres son espías."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001251"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Zendaya, Veronica Dunne, Kamil McFadden, Trinitee Stokes"
+                },
+                {
+                    "key": "Year",
+                    "value": 2015
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/8634f3cc6d36429b98b98027c924dc5a_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/8634f3cc6d36429b98b98027c924dc5a_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 317484,
+            "cid": 0,
+            "title": "Noddy, detective en el país de los juguetes",
+            "description": "Noddy, detective en el país de los juguetes supone el regreso a la televisión del personaje de ficción creado por Enid Blyton. Noddy vive en el colorido y mágico mundo de Toyland, donde los juguetes cobran vida y protagonizan apasionantes aventuras.En esta ocasión, Noddy y sus amigos asumen los roles de detectives y se lanzan a resolver los misterios de Toyland. Si algo se pierde, desaparece o si sucede un hecho inexplicable en Toyland, Noddy y sus mejores amigos, el perro Bumpy y el coche Revs, forman un equipo de investigación que descubrirá lo que sucede y restablecerá el orden. Con la ayuda del libro Quién-Qué-Dónde y de su kit de investigación, Noddy indaga y encuentra pistas para resolver los misterios de Toyland y que todo vuelva a la normalidad. ¡Caso resuelto!",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Francia"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Noddy, detective en el país de los juguetes"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "504133"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|DTIW384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "504133"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "En esta ocasión, Noddy y sus amigos asumen los roles de detectives y se lanzan a resolver los misterios de Toyland."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "FDCA0000000000008771"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/094fef58e76b4a2a832c2d72256a43f7_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/094fef58e76b4a2a832c2d72256a43f7_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 304569,
+            "cid": 0,
+            "title": "Galaxia Wander",
+            "description": "Wander es un eterno optimista que pasea por la galaxia con su inseparable montura Sylvia, para desgracia del malvado Lord Fobia.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Galaxia Wander"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "192960"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|DTIW384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "192960"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Wander es un eterno optimista que pasea por la galaxia con su inseparable montura Sylvia, para desgracia del malvado Lord Fobia."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001231"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2015
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/4f4a55d6abe44350b2e480f4b2d73b5e_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/4f4a55d6abe44350b2e480f4b2d73b5e_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 304567,
+            "cid": 0,
+            "title": "Liv y Maddie",
+            "description": "Mientras Liv se prepara para hacer un anuncio con una antigua amiga, Maddie se siente insegura de su recién recuperada rodilla.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Rocha,Kali|Cameron,Dove|Bragg,Joey"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Liv y Maddie"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Rocha,Kali|Cameron,Dove|Bragg,Joey"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "183806"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|DTIW384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "183806"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Mientras Liv se prepara para hacer un anuncio con una antigua amiga, Maddie se siente insegura de su recién recuperada rodilla."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001161"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Dove Cameron, Joey Bragg, Kali Rocha"
+                },
+                {
+                    "key": "Year",
+                    "value": 2012
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/29a31bbee3e94ada97f6dcc1959a930e_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/29a31bbee3e94ada97f6dcc1959a930e_286X429.jpg"
+            },
+            "is_favorite": false
+        }
+    ],
+    "total_assets": 47,
+    "orientation": "2:3",
+    "name": "Series Infantiles"
+}

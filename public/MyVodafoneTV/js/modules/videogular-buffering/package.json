@@ -1,0 +1,43 @@
+{
+  "name": "videogular-buffering",
+  "version": "1.4.4",
+  "main": "index.js",
+  "dependencies": {
+    "videogular": "~1.4.4"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-release": "~0.7.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "gitHead": "0d467bfc6b8c49521809f83d91cd583e0970bc38",
+  "description": "bower-videogular-buffering ==========================",
+  "_id": "videogular-buffering@1.4.4",
+  "scripts": {},
+  "_shasum": "24e01b8f969edb1d0196728e82d65d0b426790f0",
+  "_from": "videogular-buffering@latest",
+  "_npmVersion": "3.5.3",
+  "_nodeVersion": "4.2.2",
+  "_npmUser": {
+    "name": "elecash",
+    "email": "elecash@gmail.com"
+  },
+  "dist": {
+    "shasum": "24e01b8f969edb1d0196728e82d65d0b426790f0",
+    "tarball": "https://registry.npmjs.org/videogular-buffering/-/videogular-buffering-1.4.4.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "elecash",
+      "email": "elecash@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/videogular-buffering-1.4.4.tgz_1466321976505_0.35805197432637215"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/videogular-buffering/-/videogular-buffering-1.4.4.tgz"
+}

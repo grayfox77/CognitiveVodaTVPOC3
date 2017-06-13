@@ -1,0 +1,73 @@
+{
+    "status": "ok",
+    "total_assets": 3,
+    "orientation": "mixed",
+    "assets": [
+        {
+            "id": 321348,
+            "name": "Los hermanos Kratt - Capítulo 1",
+            "type_name": "episode",
+            "episode_number": "1",
+            "description": "Los hermanos Kratt, Chris y Martin, viajan a maravillosos lugares del mundo y exploran la naturaleza, encontrando animales increíbles y descubriendo misterios de la vida silvestre. Con la ayuda de la brillante inventora y científica Aviva Corcovado y su equipo, en cada capítulo, los hermanos Kratt se ayudan de sus trajes con súper-poderes para transformarse y poder volar con halcones, nadar en las profundidades del mar con ballenas y pulpos gigantes o caminar sobre el agua con lagartijas curiosas, entre otras aventuras. Chris y Martin también usarán sus poderes para salvar a los animales de los villanos, que planean crear una tropa de robots biotécnicos, congelarlos y venderlos como joyería o hacer experimentos con ellos. Un mundo de animales exóticos, ciencia, peligros y aventuras fascinantes, con el que descubrir planeta y aprender a cuidar a los animales.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "21"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                }
+            ]
+        },
+        {
+            "id": 321385,
+            "name": "Los hermanos Kratt - Capítulo 2",
+            "type_name": "episode",
+            "episode_number": "2",
+            "description": "Los hermanos Kratt, Chris y Martin, viajan a maravillosos lugares del mundo y exploran la naturaleza, encontrando animales increíbles y descubriendo misterios de la vida silvestre. Con la ayuda de la brillante inventora y científica Aviva Corcovado y su equipo, en cada capítulo, los hermanos Kratt se ayudan de sus trajes con súper-poderes para transformarse y poder volar con halcones, nadar en las profundidades del mar con ballenas y pulpos gigantes o caminar sobre el agua con lagartijas curiosas, entre otras aventuras. Chris y Martin también usarán sus poderes para salvar a los animales de los villanos, que planean crear una tropa de robots biotécnicos, congelarlos y venderlos como joyería o hacer experimentos con ellos. Un mundo de animales exóticos, ciencia, peligros y aventuras fascinantes, con el que descubrir planeta y aprender a cuidar a los animales.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "21"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                }
+            ]
+        },
+        {
+            "id": 321496,
+            "name": "Los hermanos Kratt - Capítulo 3",
+            "type_name": "episode",
+            "episode_number": "3",
+            "description": "Los hermanos Kratt, Chris y Martin, viajan a maravillosos lugares del mundo y exploran la naturaleza, encontrando animales increíbles y descubriendo misterios de la vida silvestre. Con la ayuda de la brillante inventora y científica Aviva Corcovado y su equipo, los hermanos Kratt se ayudan de sus trajes con súper-poderes para transformarse y poder volar con halcones, nadar en las profundidades del mar con ballenas y pulpos gigantes o caminar sobre el agua con lagartijas curiosas, entre otras muchas aventuras. Chris y Martin también usarán sus poderes para salvar a los animales de los villanos, que planean crear una tropa de robots biotécnicos, congelarlos y venderlos como joyería o hacer experimentos con ellos.Un mundo de animales exóticos, ciencia, peligros y aventuras fascinantes, con el que descubrir el planeta y aprender a cuidar a los animales.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "4"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "21"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                }
+            ]
+        }
+    ]
+}

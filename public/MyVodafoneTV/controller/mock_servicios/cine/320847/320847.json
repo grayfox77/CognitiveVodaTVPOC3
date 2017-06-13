@@ -1,0 +1,165 @@
+{
+    "status": "ok",
+    "medias": [
+        {
+            "id": 320847,
+            "cid": 0,
+            "title": "Río Rojo",
+            "description": "Este clásico del western fue el debut en la gran pantalla de Montgomery Clift y también el primer western dirigido por Howard Hawks (\"Río Bravo\", \"Río Lobo\") en el que retrata la dura y peligrosa vida de los cowboys. Al final de la Guerra de Secesión, Thomas Dunson (John Wayne) dueño de miles de cabezas de ganado en Texas, decide llevar su ganado a Missouri por la senda de Chisum, cruzando el río Rojo. El camino está lleno de dificultades por las estampidas, tiroteos y ataques de los indios. Además, surge el conflicto entre Tom y su hijo adoptivo Matthew (Montgomery Clift), por el despotismo de Tom y porque Matthew quiere ir a Abilene, Kansas, por donde pasa el ferrocarril. El enfrentamiento entre ambos termina con una de las peleas a puñetazos más célebres de la historia del cine.",
+            "files": {
+                "sd": {
+                    "file_id": 604418,
+                    "url": "http://vfottcdn.gb.vodafone.es/shss/FDCA2016110400268782/2.ism/Manifest?device=HSS_PC_ENC_VOD_SD"
+                }
+            },
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Cine/Aventuras|Cine"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Brennan,Walter|Wayne,John|Dru,Joanne|Gray,Coleen|Clift,Montgomery"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Director",
+                    "value": "Hawks,Howard"
+                },
+                {
+                    "key": "Ono Package ID",
+                    "value": "EXTRA"
+                },
+                {
+                    "key": "Audio type",
+                    "value": "Mono"
+                },
+                {
+                    "key": "Audio stream",
+                    "value": "spa,Mono|eng,Mono"
+                },
+                {
+                    "key": "Screen format",
+                    "value": "16:9"
+                },
+                {
+                    "key": "Rating Display",
+                    "value": "12"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Wayne,John|Dru,Joanne|Gray,Coleen|Brennan,Walter|Clift,Montgomery"
+                },
+                {
+                    "key": "Audio description available",
+                    "value": "es|en"
+                },
+                {
+                    "key": "ContentTags",
+                    "value": "s_en"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Cine|Oeste"
+                },
+                {
+                    "key": "Country_Tag",
+                    "value": "US"
+                },
+                {
+                    "key": "Target",
+                    "value": "STB|DCTI384"
+                },
+                {
+                    "key": "Provider",
+                    "value": "Factoria de Canales"
+                },
+                {
+                    "key": "Provider ID",
+                    "value": "fdc.es"
+                },
+                {
+                    "key": "Billing ID",
+                    "value": "26878"
+                },
+                {
+                    "key": "Licensing Window End",
+                    "value": "2017-01-01T00:00"
+                },
+                {
+                    "key": "External program ID",
+                    "value": "34019"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Tras la guerra de Secesión, un ganadero y su hijo tendrán que trasladar diez mil cabezas de ganado hasta Missouri, algo inédito hasta la fecha."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "FDCA2016110400268781"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Cine/Oeste"
+                },
+                {
+                    "key": "Display_Run_Time",
+                    "value": "02:07"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "John Wayne, Montgomery Clift, Joanne Dru, Walter Brennan, Coleen Gray"
+                },
+                {
+                    "key": "Director display",
+                    "value": "Howard Hawks"
+                },
+                {
+                    "key": "Provider QA contact",
+                    "value": "fdc.es"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "127"
+                },
+                {
+                    "key": "Year",
+                    "value": 1948
+                },
+                {
+                    "key": "Display as new",
+                    "value": 0
+                },
+                {
+                    "key": "Display as last chance",
+                    "value": 0
+                },
+                {
+                    "key": "Release year",
+                    "value": 1948
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "movie",
+            "pictures": {
+                "player": "http://kal-images.ono.es/app_posters/57cae49f75ca4e008b1a4f3c9764d507_920X602.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/57cae49f75ca4e008b1a4f3c9764d507_286X429.jpg"
+            },
+            "orientation": "2:3"
+        }
+    ]
+}

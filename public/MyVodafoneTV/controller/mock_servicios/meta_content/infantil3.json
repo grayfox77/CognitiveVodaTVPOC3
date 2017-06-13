@@ -1,0 +1,1004 @@
+{
+    "status": "ok",
+    "assets": [
+        {
+            "id": 298668,
+            "cid": 0,
+            "title": "Henry Danger",
+            "description": "Henry Hart, un chico de 13 años, se convierte en el ayudante de Capitán Man, su superhéroe favorito. Juntos vivirán de cerca la acción y protagonizarán aventuras. ¿Sabrá Henry ocultar su identidad secreta?",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Downs,Riele|Anderson,Ella|Barnes,Cooper"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Henry Danger"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Downs,Riele|Anderson,Ella|Barnes,Cooper"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "223039"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "223039"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Henry Hart, un chico de 13 años, se convierte en el ayudante de Capitán Man, su superhéroe favorito. Juntos protagonizarán múltiples aventuras."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NICK0000000000001761"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Ella Anderson, Cooper Barnes, Riele Downs"
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/3dda478bbbee41099e65cf3438346a78_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/3dda478bbbee41099e65cf3438346a78_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 298663,
+            "cid": 0,
+            "title": "Blaze y los Monster Machines",
+            "description": "AJ es un niño de ocho años aficionado a la tecnología que, junto a su camión Blaze, se encuentran en la cima de los corredores de Axle City. Piloto y camión viven juntos diversas aventuras y tendrán que resolver sus problemas con la ayuda de las ciencias y las matemáticas.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Blaze y los Monster Machines"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "238694"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "238694"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "AJ es un niño de ocho años aficionado a la tecnología que, junto a su camión Blaze, se encuentran en la cima de los corredores de Axle City."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NICJ0000000000001771"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2014
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/fc5ac7b7173b40ada0f9857411cf06b2_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/fc5ac7b7173b40ada0f9857411cf06b2_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 298665,
+            "cid": 0,
+            "title": "Dora, la exploradora",
+            "description": "Dora es una simpática niña que, junto con su amigo el mono Botas, transporta a los más pequeños a un mundo lleno de cuentos y aventuras. Durante el viaje, Dora pide ayuda a los niños para que tomen decisiones. De esta forma, fomenta su participación a lo largo del programa. Además, los pequeños espectadores disfrutarán con la mochila habladora de Dora, su mapa parlante e incluso aprenden inglés.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Dora, la exploradora"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "8"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "4928"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "4928"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Dora es una simpática niña que, junto con su amigo el mono Botas, transporta a los más pequeños a un mundo lleno de cuentos y aventuras."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NICJ0000000000001791"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2013
+                },
+                {
+                    "key": "Release year",
+                    "value": 2013
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/f0c6578044c848d2a040373914a2861f_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/f0c6578044c848d2a040373914a2861f_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 321070,
+            "cid": 0,
+            "title": "Fresh Beat Band: Los Espías",
+            "description": "Un grupo de espías musicales (Twist, Kiki, Shout y Marina) resolverá misterios y detendrá a los villanos con la ayuda del Comisario Goldstar, de su compañero mono Bo y del \"chico artilugio\" Reed.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Fresh Beat Band: Los Espías"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "354530"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "354530"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Un grupo de espías musicales resolverá misterios con la ayuda del Comisario Goldstar, de su compañero mono Bo y del \"chico artilugio\" Reed."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NICJ0000000000009661"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2015
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/efeaa8f267604aa9bc1fe6ba60ea151a_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/efeaa8f267604aa9bc1fe6ba60ea151a_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 321053,
+            "cid": 0,
+            "title": "Equipo Umizoomi",
+            "description": "El Equipo Umizoomi es un equipo de superhéroes pequeñitos. En cada episodio de Umizoomi, las matemáticas nos sirven para solucionar los pequeños problemas de cada día. Gracias a ellas podremos tejer un nido, construir un barco, arreglar un juguete... ¡y mil enigmas más! Cada aventura tiene una solución gracias a los números y sobre todo... ¡al Equipo Umizoomi!",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Director",
+                    "value": "Smith,Michael|Kim,Soo|Twomey,Jennifer"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Equipo Umizoomi"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "12543"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "12543"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "El Equipo Umizoomi es un equipo de superhéroes pequeñitos. En cada episodio las matemáticas nos solucionarán los pequeños problemas de cada día."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NICJ0000000000009641"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Director display",
+                    "value": "Soo Kim, Jennifer Twomey, Michael Smith"
+                },
+                {
+                    "key": "Year",
+                    "value": 2010
+                },
+                {
+                    "key": "Release year",
+                    "value": 2010
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/0caeb094b32a432bb124c6fa8bb0c7d7_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/0caeb094b32a432bb124c6fa8bb0c7d7_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 320813,
+            "cid": 0,
+            "title": "¡Gusano Marciano!",
+            "description": "Gus nunca ha probado los cereales favoritos de Danny.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "¡Gusano Marciano!"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "239540"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "239540"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Gus nunca ha probado los cereales favoritos de Danny."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000009501"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/fef624e9cec24c509f472b482389ccfc_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/fef624e9cec24c509f472b482389ccfc_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 304693,
+            "cid": 0,
+            "title": "Disney Mickey Mouse",
+            "description": "Mickey y Donald deciden ayudar a su amigo Goofy para que consiga al amor de su vida.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Disney Mickey Mouse"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2|3"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "166128"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "166128"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Mickey y Donald deciden ayudar a su amigo Goofy para que consiga al amor de su vida."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001131"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/3348626beb234c0fad115b5d301ab167_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/3348626beb234c0fad115b5d301ab167_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 320006,
+            "cid": 0,
+            "title": "Regal Academy",
+            "description": "Los cuentos clásicos no están tan pasados de moda como parece, en Regal Academy volveremos a ver a nuestros personajes clásicos favoritos, pero con historias totalmente diferentes. La protagonista de esta divertida serie es Rose Cenicienta, la nueva estudiante de Regal Academy, nieta de una de las famosas hadas fundadoras de la escuela, como también lo son sus compañeras de clase, Hawk Blancanieves, Travis Bestia, Perla Rapunzel y Violeta la Rana. Estas cinco famosas familias de hadas no solo llevan la escuela sino también las vidas de sus nietas... ¡O al menos lo intentan!",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Italia"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Regal Academy"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "530095"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|DTIW384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "530095"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Los cuentos clásicos no están tan pasados de moda como parece, en Regal Academy volveremos a ver a nuestros personajes clásicos favoritos."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NICK0000000000009511"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/2b8658bc77a8432eab95317f3e90e96c_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/2b8658bc77a8432eab95317f3e90e96c_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 317370,
+            "cid": 0,
+            "title": "Escuela de rock",
+            "description": "El profesor Dewey Finn, un músico con mucho talento, se incorpora a la prestigiosa escuela de secundaria William B. Travis Prep School, en la que estudian Zack, Lawrence, Freddy, Summer y Tomika.  A esta pandilla tan particular y ambiciosa les gusta tanto la música y el rock and roll que formarán una banda secreta junto con su profesor.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Cavalero,Tony|Miner,Aidan|Hurtado,Ricardo"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Escuela de rock"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Cavalero,Tony|Miner,Aidan|Hurtado,Ricardo"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "504135"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|DTIW384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "504135"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "El profesor Dewey Finn, un músico con mucho talento, se incorpora a la prestigiosa escuela de secundaria William B. Travis Prep School."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NICK0000000000008831"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Aidan Miner, Ricardo Hurtado, Tony Cavalero"
+                },
+                {
+                    "key": "Year",
+                    "value": 2015
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/b1e6586bd0094389be245e9e8e465b5e_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/b1e6586bd0094389be245e9e8e465b5e_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 298667,
+            "cid": 0,
+            "title": "Max y Shred",
+            "description": "Max, maestro del snowboard, se taslada a vivir a Colorado, con Alvin, un genio de la ciencia, y su familia. ¿Conseguirán llevarse bien estos dos chavales que son como el día y la noche?",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Goodman,Jake|Gray,Jonny|Chaudry,Saara"
+                },
+                {
+                    "key": "Country",
+                    "value": "Canadá"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Max y Shred"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Goodman,Jake|Gray,Jonny|Chaudry,Saara"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "235311"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|DTIW384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "235311"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Max, maestro del snowboard, se muda a Colorado, con Alvin, un genio de la ciencia, y su familia. ¿Conseguirán llevarse bien estos dos chavales?"
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NICK0000000000001751"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Jonny Gray, Saara Chaudry, Jake Goodman"
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/e6e20404ac414187a1edb96008f1f574_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/e6e20404ac414187a1edb96008f1f574_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 305972,
+            "cid": 0,
+            "title": "Campamento Kikiwaka",
+            "description": "Emma, Zuri y Ravi dejan la ciudad durante el verano y se dirigen al Campamento Kikiwaka, donde conocerán a sus nuevos compañeros, monitores e incluso al legendario monstruo Kikiwaka.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "List,Peyton|Brar,Karan|May,Miranda"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Campamento Kikiwaka"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "List,Peyton|Brar,Karan|May,Miranda"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|DTIW384|STB"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Emma, Zuri y Ravi dejan la ciudad durante el verano y se dirigen al Campamento Kikiwaka, donde conocen a sus nuevos compañeros, monitores e incluso al monstruo Kikiwaka."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000005481"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Peyton List, Karan Brar, Miranda May"
+                },
+                {
+                    "key": "Year",
+                    "value": 2015
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/fd67c692026841ccb729aefde35a4d4d_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/fd67c692026841ccb729aefde35a4d4d_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 303509,
+            "cid": 0,
+            "title": "Bob Esponja",
+            "description": "Bob Esponja vive con su mascota Gary, un caracol, en la ciudad Fondo de Bikini, y cocina las mejores hamburguesas del restaurante El Krustáceo Krujiente. Junto a Patricio, una amable estrella de mar que no siempre da buenos consejos, se ve involucrado en varios problemas. ¡Y es que nadie dijo que ser una esponja con pantalones fuera tarea fácil!",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Bob Esponja"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "4936"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|DTIW384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "4936"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Bob Esponja vive en la ciudad submarina Fondo de Bikini dónde, junto a su amigo Patricio, una simpática estrella de mar, se mete en varios problemas."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NICK0000000000000911"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2011
+                },
+                {
+                    "key": "Release year",
+                    "value": 2011
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/ae9df96aee6f4f12b2cace97f1e1d5cc_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/ae9df96aee6f4f12b2cace97f1e1d5cc_286X429.jpg"
+            },
+            "is_favorite": false
+        }
+    ],
+    "total_assets": 42,
+    "orientation": "2:3",
+    "name": "Series Infantiles"
+}

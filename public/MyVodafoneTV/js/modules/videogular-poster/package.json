@@ -1,0 +1,43 @@
+{
+  "name": "videogular-poster",
+  "version": "1.4.4",
+  "main": "index.js",
+  "dependencies": {
+    "videogular": "~1.4.4"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-release": "~0.7.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "gitHead": "8438a0c28b1294096ba4700d30a72207e9ce7e96",
+  "description": "bower-videogular-poster =======================",
+  "_id": "videogular-poster@1.4.4",
+  "scripts": {},
+  "_shasum": "d58d2bc70beac92d03aac69e7bb7883663170aac",
+  "_from": "videogular-poster@latest",
+  "_npmVersion": "3.5.3",
+  "_nodeVersion": "4.2.2",
+  "_npmUser": {
+    "name": "elecash",
+    "email": "elecash@gmail.com"
+  },
+  "dist": {
+    "shasum": "d58d2bc70beac92d03aac69e7bb7883663170aac",
+    "tarball": "https://registry.npmjs.org/videogular-poster/-/videogular-poster-1.4.4.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "elecash",
+      "email": "elecash@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/videogular-poster-1.4.4.tgz_1466322048222_0.8163430751301348"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/videogular-poster/-/videogular-poster-1.4.4.tgz"
+}

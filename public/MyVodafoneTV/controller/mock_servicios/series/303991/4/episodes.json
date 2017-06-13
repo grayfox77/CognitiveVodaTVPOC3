@@ -1,0 +1,227 @@
+{
+    "status": "ok",
+    "total_assets": 10,
+    "orientation": "mixed",
+    "assets": [
+        {
+            "id": 304587,
+            "name": "Vikingos - 01. Una buena traición",
+            "type_name": "episode",
+            "episode_number": "1",
+            "description": "Ragnar yace enfermo en su lecho con lo que ciertos acontecimientos escapan a su control. Bjorn ordena detener a Floki por el asesinato de Athelstan.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "42"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                }
+            ]
+        },
+        {
+            "id": 304932,
+            "name": "Vikingos - 02. Matad a la reina",
+            "type_name": "episode",
+            "episode_number": "2",
+            "description": "Ragnar y Floki siguen en desacuerdo, mientras Rollo se esfuerza por ganarse a su esposa. Bjorn pone a prueba sus habilidades de supervivencia.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "42"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                }
+            ]
+        },
+        {
+            "id": 305339,
+            "name": "Vikingos - 03. Clemencia",
+            "type_name": "episode",
+            "episode_number": "3",
+            "description": "Ragnar le dice a Floki que ha de pagar un alto precio por sus acciones. Rollo encuentra un aliado en el Conde Odo.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "42"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                }
+            ]
+        },
+        {
+            "id": 305748,
+            "name": "Vikingos - 04. El solsticio de invierno",
+            "type_name": "episode",
+            "episode_number": "4",
+            "description": "Ragnar conoce a la nueva esclava, mientras Rollo revela sus ambiciones a su esposa. Bjorn encuentra a un inesperado guerrero en su regreso a casa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "42"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                }
+            ]
+        },
+        {
+            "id": 306573,
+            "name": "Vikingos - 05. Prometida",
+            "type_name": "episode",
+            "episode_number": "5",
+            "description": "La traición planea sobre la corte de París. Ragnar le revela uno de sus secretos más íntimos a Yidu.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "42"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                }
+            ]
+        },
+        {
+            "id": 306965,
+            "name": "Vikingos - 06. Lo que podría haber sido",
+            "type_name": "episode",
+            "episode_number": "6",
+            "description": "Ragnar anuncia sus planes para asaltar de nuevo París, donde Rollo espera. Ecbert envía a Aethelwulf y Alfred de peregrinación a Roma.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "42"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                }
+            ]
+        },
+        {
+            "id": 307310,
+            "name": "Vikingos - 07. Beneficios y pérdidas",
+            "type_name": "episode",
+            "episode_number": "7",
+            "description": "Siendo consciente ya de la traición de Rollo, Ragnar prepara su plan de ataque, que traerá consecuencias terribles.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "42"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                }
+            ]
+        },
+        {
+            "id": 307642,
+            "name": "Vikingos - 08. Porte",
+            "type_name": "episode",
+            "episode_number": "8",
+            "description": "Después de la derrota en el río, Ragnar se niega a retirarse y piensa en cambiar sus métodos para atacar París.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "44"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                }
+            ]
+        },
+        {
+            "id": 307979,
+            "name": "Vikingos - 09. Muerte alrededor",
+            "type_name": "episode",
+            "episode_number": "9",
+            "description": "Los vikingos, finalmente, llegan al río, mientras  Aetheulwulf y Alfred llegan a  Roma. Erlendur lleva a cabo sus movimientos contra Bjorn.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "42"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                }
+            ]
+        },
+        {
+            "id": 308233,
+            "name": "Vikingos - 10. El último barco",
+            "type_name": "episode",
+            "episode_number": "10",
+            "description": "Los vikingos y las tropas francesas se enfrentan en una batalla que finalmente se reduce a Ragnar contra Rollo. Esta batalla sellará el destino de los dos hermanos.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "42"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                }
+            ]
+        }
+    ]
+}

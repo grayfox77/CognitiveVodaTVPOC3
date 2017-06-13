@@ -1,0 +1,100 @@
+{
+    "status": "ok",
+    "medias": [
+        {
+            "id": 303991,
+            "cid": 0,
+            "title": "Vikingos",
+            "description": "Ragnar yace enfermo en su lecho con lo que ciertos acontecimientos escapan a su control. Bjorn ordena detener a Floki por el asesinato de Athelstan.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Skarsgård,Gustaf|Fimmel,Travis|Standen,Clive"
+                },
+                {
+                    "key": "Country",
+                    "value": "Canadá/Irlanda"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Vikingos"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "4"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Acción"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Skarsgård,Gustaf|Fimmel,Travis|Standen,Clive"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "154992"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "154992"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Ragnar yace enfermo en su lecho con lo que ciertos acontecimientos escapan a su control. Bjorn ordena detener a Floki por el asesinato de Athelstan."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "TUBR0000000000004701"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Acción"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Travis Fimmel, Clive Standen, Gustaf Skarsgård"
+                },
+                {
+                    "key": "Year",
+                    "value": 2015
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "total_seasons": 1,
+            "seasons": [
+                4
+            ],
+            "type_name": "series",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/83d030d266244b209426d4b473f1f928_920X602.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/83d030d266244b209426d4b473f1f928_286X429.jpg"
+            },
+            "orientation": "2:3"
+        }
+    ]
+}

@@ -1,0 +1,468 @@
+{
+    "status": "ok",
+    "total_assets": 21,
+    "orientation": "mixed",
+    "assets": [
+        {
+            "id": 305495,"name": "Doctora Juguetes - 104. El desayuno con Bronty",
+            "type_name": "episode",
+            "episode_number": "104",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 305508,
+            "name": "Doctora Juguetes - 103. Hazel viene a dormir",
+            "type_name": "episode",
+            "episode_number": "103",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 305537,
+            "name": "Doctora Juguetes - 105. A Doc se le acumula el trabajo",
+            "type_name": "episode",
+            "episode_number": "105",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 305538,
+            "name": "Doctora Juguetes - 106. Infringiendo la ley",
+            "type_name": "episode",
+            "episode_number": "106",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 305629,
+            "name": "Doctora Juguetes - 107. Qué tímido",
+            "type_name": "episode",
+            "episode_number": "107",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 305640,
+            "name": "Doctora Juguetes - 108. Comandante No",
+            "type_name": "episode",
+            "episode_number": "108",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 305755,
+            "name": "Doctora Juguetes - 109. Escuela de medicina Doctora Juguetes",
+            "type_name": "episode",
+            "episode_number": "109",
+            "description": "Tandra, la osa doctora de Amy, se incorpora a la consulta, pero no tiene todos los conocimientos que necesita, así que será la interna de Doc.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 305759,
+            "name": "Doctora Juguetes - 110. Los ultra saltadores súper alucinantes",
+            "type_name": "episode",
+            "episode_number": "110",
+            "description": "Uno de los Ultra Saltadores de Donnie no puede saltar tanto como sus compañeros, así que Doc investiga la razón.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 305812,
+            "name": "Doctora Juguetes - 111. El murciélago gruñón",
+            "type_name": "episode",
+            "episode_number": "111",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 305813,
+            "name": "Doctora Juguetes - 112. Ruby la Rockera y los juguetes",
+            "type_name": "episode",
+            "episode_number": "112",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 305990,
+            "name": "Doctora Juguetes - 115. Que brille Nightingale",
+            "type_name": "episode",
+            "episode_number": "115",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "23"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 306069,
+            "name": "Doctora Juguetes - 119. Llegar al corazón de las cosas",
+            "type_name": "episode",
+            "episode_number": "119",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 306082,
+            "name": "Doctora Juguetes - 118. Collide-o-scope",
+            "type_name": "episode",
+            "episode_number": "118",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 306113,
+            "name": "Doctora Juguetes - 120. Juguete al sol",
+            "type_name": "episode",
+            "episode_number": "120",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 306166,
+            "name": "Doctora Juguetes - 123. Bobby buscador",
+            "type_name": "episode",
+            "episode_number": "123",
+            "description": "Bobby Buscador, el nuevo juguete de Donnie, no es capaz de coger su hueso, así que Doc se pone manos a la obra.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 306310,
+            "name": "Doctora Juguetes - 124. Los gemelos Pirueta",
+            "type_name": "episode",
+            "episode_number": "124",
+            "description": "Los gemelos Pirueta tienen problemas para estar juntos, así que Doc tendrá que ver qué les pasa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 306870,
+            "name": "Doctora Juguetes - 053. La clínica móvil de la doctora juguetes",
+            "type_name": "episode",
+            "episode_number": "53",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 306872,
+            "name": "Doctora Juguetes - 054. De tal palo tal astilla",
+            "type_name": "episode",
+            "episode_number": "54",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 308965,
+            "name": "Doctora Juguetes - 113. Viaje accidentado",
+            "type_name": "episode",
+            "episode_number": "113",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 308966,
+            "name": "Doctora Juguetes - 114. Moona en la luna",
+            "type_name": "episode",
+            "episode_number": "114",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        },
+        {
+            "id": 309056,
+            "name": "Doctora Juguetes - 117. ¡Un día sin abrazos!",
+            "type_name": "episode",
+            "episode_number": "117",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "12"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                }
+            ]
+        }
+    ]
+}

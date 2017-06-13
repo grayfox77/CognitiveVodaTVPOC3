@@ -1,0 +1,133 @@
+{
+    "status": "ok",
+    "total_assets": 6,
+    "orientation": "mixed",
+    "assets": [
+        {
+            "id": 304513,"name": "La Princesa Sofía - 12. ¡Princesas al rescate!",
+            "type_name": "episode",
+            "episode_number": "12",
+            "description": "En una visita real al reino de Wei-Ling, Sofía, Ámber y la Princesa Jun deben trabajar unidas para rescatar a sus padres y hermanos.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2013
+                }
+            ]
+        },
+        {
+            "id": 304516,"name": "La Princesa Sofía - 09. Gwen y sus artilugios",
+            "type_name": "episode",
+            "episode_number": "9",
+            "description": "Tras la boda de su madre con el Rey, Sofía se traslada a vivir a Palacio, donde deberá aprender a ser una princesa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2013
+                }
+            ]
+        },
+        {
+            "id": 304762,"name": "La Princesa Sofía - 14. Mascotas revueltas",
+            "type_name": "episode",
+            "episode_number": "14",
+            "description": "Los protagonistas llevan a sus mascotas al jardín de la Academia, aunque saben que no está permitido y a Sofía no le parece una buena idea.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2013
+                }
+            ]
+        },
+        {
+            "id": 304925,"name": "La Princesa Sofía - 16. La Princesa atrapada en el cuadro",
+            "type_name": "episode",
+            "episode_number": "16",
+            "description": "Cuando Sofía y Hildegard se quedan atrapadas en un cuadro encantado, Hildegard complica su plan de salida insistiendo en que lo sabe todo.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2013
+                }
+            ]
+        },
+        {
+            "id": 307438,"name": "La Princesa Sofía - 10. La segunda Sofía",
+            "type_name": "episode",
+            "episode_number": "10",
+            "description": "Tras la boda de su madre con el Rey, Sofía se traslada a vivir a Palacio, donde deberá aprender a ser una princesa.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2013
+                }
+            ]
+        },
+        {
+            "id": 307581,"name": "La Princesa Sofía - 13. Las praderas místicas",
+            "type_name": "episode",
+            "episode_number": "13",
+            "description": "Sofía visita una residencia de magos jubilados y ayuda a Cédric a ganarse la poderosa varita de su familia y el respeto de su padre.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2013
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "status": "ok",
+    "total_assets": 1,
+    "orientation": "mixed",
+    "assets": [
+        {
+            "id": 321407,
+            "name": "Hawai 5-0 - 04. Hu A'e Ke Ahi Lanakila A Kamaile. El fuego se alza triunfante en Kamalle",
+            "type_name": "episode",
+            "episode_number": "4",
+            "description": "El equipo 5-0 debe encontrar a McGarrett y Alicia cuando son secuestrados por el asesino en serie al que han estado intentando atrapar.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "41"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "status": "ok",
+    "medias": [
+        {
+            "id": 321791,
+            "cid": 0,
+            "title": "Lo imposible",
+            "description": "Una pareja y sus tres hijos vuelan a Tailandia para pasar sus vacaciones de Navidad en la playa. Una mañana, un tremendo tsunami destroza el hotel al mismo tiempo que gran parte de la costa del sudeste asiático.",
+            "files": {
+                "sd": {
+                    "file_id": 610069,
+                    "url": "http://vfottcdn.gb.vodafone.es/shss/TECI2017011500200022/2.ism/Manifest?device=HSS_PC_ENC_VOD_SD"
+                }
+            },
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Cine/Drama|Cine"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Watts,Naomi|McGregor,Ewan|Holland,Tom"
+                },
+                {
+                    "key": "Country",
+                    "value": "Española"
+                },
+                {
+                    "key": "Director",
+                    "value": "Antonio Bayona,Juan"
+                },
+                {
+                    "key": "Ono Package ID",
+                    "value": "PVOD"
+                },
+                {
+                    "key": "Audio type",
+                    "value": "Stereo"
+                },
+                {
+                    "key": "Audio stream",
+                    "value": "spa,Stereo|eng,Stereo"
+                },
+                {
+                    "key": "Screen format",
+                    "value": "16:9"
+                },
+                {
+                    "key": "Rating Display",
+                    "value": "12"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Watts,Naomi|McGregor,Ewan|Holland,Tom"
+                },
+                {
+                    "key": "Audio description available",
+                    "value": "es|en"
+                },
+                {
+                    "key": "ContentTags",
+                    "value": "s_en"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Cine|Drama"
+                },
+                {
+                    "key": "Country_Tag",
+                    "value": "ES"
+                },
+                {
+                    "key": "Target",
+                    "value": "STB|DCTI384"
+                },
+                {
+                    "key": "Provider",
+                    "value": "Tele5Cine"
+                },
+                {
+                    "key": "Provider ID",
+                    "value": "tele5cine.es"
+                },
+                {
+                    "key": "Billing ID",
+                    "value": "20002"
+                },
+                {
+                    "key": "Licensing Window End",
+                    "value": "2017-10-14T00:00"
+                },
+                {
+                    "key": "External program ID",
+                    "value": "168045"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Una pareja y sus tres hijos vuelan a Tailandia para pasar sus vacaciones de Navidad en la playa. Una mañana, un tremendo tsunami destroza el hotel."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "TECI2017011500200021"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Cine/Drama"
+                },
+                {
+                    "key": "Display_Run_Time",
+                    "value": "01:48"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Naomi Watts, Ewan McGregor, Tom Holland"
+                },
+                {
+                    "key": "Director display",
+                    "value": "Juan Antonio Bayona"
+                },
+                {
+                    "key": "Provider QA contact",
+                    "value": "tele5cine.es"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "108"
+                },
+                {
+                    "key": "Year",
+                    "value": 2012
+                },
+                {
+                    "key": "Display as new",
+                    "value": 0
+                },
+                {
+                    "key": "Display as last chance",
+                    "value": 0
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                },
+                {
+                    "key": "Asset Is Active",
+                    "value": false
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsVODCatchUp",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "movie",
+            "pictures": {
+                "player": "http://kal-images.ono.es/app_posters/efac64e141684905afed5813b25b1dd5_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/efac64e141684905afed5813b25b1dd5_286X429.jpg"
+            },
+            "orientation": "2:3"
+        }
+    ]
+}

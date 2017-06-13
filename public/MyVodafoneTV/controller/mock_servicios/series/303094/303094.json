@@ -1,0 +1,100 @@
+{
+    "status": "ok",
+    "medias": [
+        {
+            "id": 303094,
+            "cid": 0,
+            "title": "Hawai 5-0",
+            "description": "El equipo debe trabajar con el agente MI-6 Harry Langford para encontrar a un terrorista que planea causar explosiones nucleares en toda Europa. A su vez, McGarrett y Danny piden ayuda a la profesora retirada del FBI, Alicia Brown, para ayudarles a encontrar a su asesino en serie.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Actors",
+                    "value": "O'Loughlin,Alex|Caan,Scott|Dae Kim,Daniel"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Hawai 5-0"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "7"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Acción"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "O'Loughlin,Alex|Caan,Scott|Dae Kim,Daniel"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "10025"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "10025"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "El equipo debe trabajar con el agente MI-6 Harry Langford para encontrar a un terrorista que planea causar explosiones nucleares en toda Europa."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "FOXC0000000000003541"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Acción"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Alex O'Loughlin, Scott Caan, Daniel Dae Kim"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "total_seasons": 1,
+            "seasons": [
+                7
+            ],
+            "type_name": "series",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/e7ebb601c8034dd2944b162557390ec5_920X602.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/e7ebb601c8034dd2944b162557390ec5_286X429.jpg"
+            },
+            "orientation": "2:3"
+        }
+    ]
+}

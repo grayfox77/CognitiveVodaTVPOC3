@@ -1,0 +1,161 @@
+{
+    "status": "ok",
+    "medias": [
+        {
+            "id": 320870,
+            "cid": 0,
+            "title": "Epic: El mundo secreto",
+            "description": "Un día Mary Katherine, una adolescente, es transportada por arte de magia a un mundo secreto donde se libra una batalla entre los Hombres Hoja, defensores de la naturaleza, y los Boggans, que pretenden destruirla.",
+            "files": {
+                "sd": {
+                    "file_id": 604581,
+                    "url": "http://vfottcdn.gb.vodafone.es/shss/CENF2016120100206362/2.ism/Manifest?device=HSS_PC_ENC_VOD_SD"
+                },
+                "trailer": {
+                    "file_id": 604587,
+                    "url": "http://vfottcdn.gb.vodafone.es/shss/CENF2016120100206364/2.ism/Manifest?device=HSS_PC_CLR_VOD_SD"
+                }
+            },
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Cine/Aventuras|Cine"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Director",
+                    "value": "Wedge,Chris"
+                },
+                {
+                    "key": "Ono Package ID",
+                    "value": "PVOD"
+                },
+                {
+                    "key": "Audio type",
+                    "value": "Stereo"
+                },
+                {
+                    "key": "Audio stream",
+                    "value": "spa,Stereo|eng,Stereo"
+                },
+                {
+                    "key": "Screen format",
+                    "value": "16:9"
+                },
+                {
+                    "key": "Preview audio type",
+                    "value": "Stereo"
+                },
+                {
+                    "key": "Rating Display",
+                    "value": "A"
+                },
+                {
+                    "key": "Audio description available",
+                    "value": "es|en"
+                },
+                {
+                    "key": "ContentTags",
+                    "value": "s_en"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Cine|Animación"
+                },
+                {
+                    "key": "Country_Tag",
+                    "value": "US"
+                },
+                {
+                    "key": "Target",
+                    "value": "STB|DCTI384"
+                },
+                {
+                    "key": "Provider",
+                    "value": "TWENTY CENTURY FOX"
+                },
+                {
+                    "key": "Provider ID",
+                    "value": "fox.com"
+                },
+                {
+                    "key": "Billing ID",
+                    "value": "20636"
+                },
+                {
+                    "key": "Licensing Window End",
+                    "value": "2017-11-30T00:00"
+                },
+                {
+                    "key": "External program ID",
+                    "value": "252682"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Un día Mary Katherine es transportada por arte de magia a un mundo secreto donde se libra una batalla entre los Hombres Hoja y los Boggans."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "CENF2016120100206361"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Cine/Animación"
+                },
+                {
+                    "key": "Display_Run_Time",
+                    "value": "01:38"
+                },
+                {
+                    "key": "Director display",
+                    "value": "Chris Wedge"
+                },
+                {
+                    "key": "Provider QA contact",
+                    "value": "fox.com"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "98"
+                },
+                {
+                    "key": "Year",
+                    "value": 2013
+                },
+                {
+                    "key": "Display as new",
+                    "value": 0
+                },
+                {
+                    "key": "Display as last chance",
+                    "value": 0
+                },
+                {
+                    "key": "Release year",
+                    "value": 2013
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "movie",
+            "pictures": {
+                "player": "http://kal-images.ono.es/app_posters/b554643178b140678e7368032122caeb_920X602.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/b554643178b140678e7368032122caeb_286X429.jpg"
+            },
+            "orientation": "2:3"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "status": "ok",
+    "medias": [
+        {
+            "id": 304567,
+            "cid": 0,
+            "title": "Liv y Maddie",
+            "description": "Liv se compromete a asistir, por primera vez en cuatro años, al Wisconsin Cheddar Brat Cheese Eating Contents, pero el estreno de una película pone en peligro que pueda asistir al concurso con Maddie.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Rocha,Kali|Cameron,Dove|Bragg,Joey"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Liv y Maddie"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2|3"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Rocha,Kali|Cameron,Dove|Bragg,Joey"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "183806"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "183806"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Liv se compromete a asistir al Wisconsin Cheddar Brat Cheese Eating Contents, pero el estreno de una película pone en peligro su asistencia."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001161"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Dove Cameron, Joey Bragg, Kali Rocha"
+                },
+                {
+                    "key": "Year",
+                    "value": 2012
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "total_seasons": 2,
+            "seasons": [
+                2,
+                3
+            ],
+            "type_name": "series",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/692932dde5d64b73a0340459c719154b_920X602.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/692932dde5d64b73a0340459c719154b_286X429.jpg"
+            },
+            "orientation": "2:3"
+        }
+    ]
+}

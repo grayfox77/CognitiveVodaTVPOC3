@@ -1,0 +1,173 @@
+{
+    "status": "ok",
+    "medias": [
+        {
+            "id": 322327,
+            "cid": 0,
+            "title": "Oblivion",
+            "description": "Hace más de 60 años la Tierra fue atacada, la mitad del planeta quedó destruido, y todos los seres humanos fueron evacuados. Jack Harper, es uno de los últimos hombres que la habitan. Su misión consiste en patrullar diariamente los cielos. Un día, rescata a una desconocida de una nave espacial y se ve obligado a replantearse sus convicciones más profundas.",
+            "files": {
+                "sd": {
+                    "file_id": 613422,
+                    "url": "http://vfottcdn.gb.vodafone.es/shss/UNIV2017010100203912/2.ism/Manifest?device=HSS_PC_ENC_VOD_SD"
+                },
+                "trailer": {
+                    "file_id": 613428,
+                    "url": "http://vfottcdn.gb.vodafone.es/shss/UNIV2017010100203914/2.ism/Manifest?device=HSS_PC_CLR_VOD_SD"
+                }
+            },
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Cine/Ciencia Ficción|Cine"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "4"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Cruise,Tom|Freeman,Morgan|Kurylenko,Olga|Riseborough,Andrea|Coster-Waldau,Nikolaj"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Director",
+                    "value": "Kosinski,Joseph"
+                },
+                {
+                    "key": "Ono Package ID",
+                    "value": "PVOD"
+                },
+                {
+                    "key": "Audio type",
+                    "value": "Stereo"
+                },
+                {
+                    "key": "Audio stream",
+                    "value": "spa,Stereo|eng,Stereo"
+                },
+                {
+                    "key": "Screen format",
+                    "value": "16:9"
+                },
+                {
+                    "key": "Preview audio type",
+                    "value": "Stereo"
+                },
+                {
+                    "key": "Rating Display",
+                    "value": "7"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Freeman,Morgan|Kurylenko,Olga|Cruise,Tom|Coster-Waldau,Nikolaj|Riseborough,Andrea"
+                },
+                {
+                    "key": "Audio description available",
+                    "value": "es|en"
+                },
+                {
+                    "key": "ContentTags",
+                    "value": "s_en"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Cine|Ciencia Ficción"
+                },
+                {
+                    "key": "Country_Tag",
+                    "value": "US"
+                },
+                {
+                    "key": "Target",
+                    "value": "STB|DCTI384"
+                },
+                {
+                    "key": "Provider",
+                    "value": "Universal Studios"
+                },
+                {
+                    "key": "Provider ID",
+                    "value": "universal.com"
+                },
+                {
+                    "key": "Billing ID",
+                    "value": "20391"
+                },
+                {
+                    "key": "Licensing Window End",
+                    "value": "2017-06-30T00:00"
+                },
+                {
+                    "key": "External program ID",
+                    "value": "189082"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Jack Harper, es uno de los últimos hombres que habitan la tierra. Al rescatar a una desconocida de comienza a plantearse su vida."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "UNIV2017010100203911"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Cine/Ciencia Ficción"
+                },
+                {
+                    "key": "Display_Run_Time",
+                    "value": "01:59"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Tom Cruise, Olga Kurylenko, Andrea Riseborough, Morgan Freeman, Nikolaj Coster-Waldau"
+                },
+                {
+                    "key": "Director display",
+                    "value": "Joseph Kosinski"
+                },
+                {
+                    "key": "Provider QA contact",
+                    "value": "universal.com"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "119"
+                },
+                {
+                    "key": "Year",
+                    "value": 2013
+                },
+                {
+                    "key": "Display as new",
+                    "value": 0
+                },
+                {
+                    "key": "Display as last chance",
+                    "value": 0
+                },
+                {
+                    "key": "Release year",
+                    "value": 2013
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "movie",
+            "pictures": {
+                "player": "http://kal-images.ono.es/app_posters/d30ce2ee6b8b471baa42b9d85a6fea1e_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/d30ce2ee6b8b471baa42b9d85a6fea1e_286X429.jpg"
+            },
+            "orientation": "2:3"
+        }
+    ]
+}

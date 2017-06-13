@@ -1,0 +1,217 @@
+{
+    "status": "ok",
+    "total_assets": 10,
+    "orientation": "mixed",
+    "assets": [
+        {
+            "id": 321224,"name": "Blaze y los Monster Machines - 01. La carrera hasta la cima del mundo (Parte 1)",
+            "type_name": "episode",
+            "episode_number": "1",
+            "description": "AJ es un niño de ocho años aficionado a la tecnología que, junto a su camión Blaze, se encuentran en la cima de los corredores de Axle City. Piloto y camión viven juntos diversas aventuras y tendrán que resolver sus problemas con la ayuda de las ciencias y las matemáticas.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "23"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                }
+            ]
+        },        
+        {
+            "id": 321227,"name": "Blaze y los Monster Machines - 02. La carrera hasta la cima del mundo (Parte 2)",
+            "type_name": "episode",
+            "episode_number": "2",
+            "description": "AJ es un niño de ocho años aficionado a la tecnología que, junto a su camión Blaze, se encuentran en la cima de los corredores de Axle City. Piloto y camión viven juntos diversas aventuras y tendrán que resolver sus problemas con la ayuda de las ciencias y las matemáticas.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "24"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                }
+            ]
+        },
+        {
+            "id": 321226,"name": "Blaze y los Monster Machines - 03. Truco o Trato",
+            "type_name": "episode",
+            "episode_number": "3",
+            "description": "AJ es un niño de ocho años aficionado a la tecnología que, junto a su camión Blaze, se encuentran en la cima de los corredores de Axle City. Piloto y camión viven juntos diversas aventuras y tendrán que resolver sus problemas con la ayuda de las ciencias y las matemáticas.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                }
+            ]
+        },
+        {
+            "id": 321275,"name": "Blaze y los Monster Machines - 04. Dinochorro",
+            "type_name": "episode",
+            "episode_number": "4",
+            "description": "AJ es un niño de ocho años aficionado a la tecnología que, junto a su camión Blaze, se encuentran en la cima de los corredores de Axle City. Piloto y camión viven juntos diversas aventuras y tendrán que resolver sus problemas con la ayuda de las ciencias y las matemáticas.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                }
+            ]
+        },       
+        {
+            "id": 321347,"name": "Blaze y los Monster Machines - 05. La carrera cerdito 500",
+            "type_name": "episode",
+            "episode_number": "5",
+            "description": "AJ es un niño de ocho años aficionado a la tecnología que, junto a su camión Blaze, se encuentran en la cima de los corredores de Axle City. Piloto y camión viven juntos diversas aventuras y tendrán que resolver sus problemas con la ayuda de las ciencias y las matemáticas.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                }
+            ]
+        },
+        {
+            "id": 321353,"name": "Blaze y los Monster Machines - 06. Incendio",
+            "type_name": "episode",
+            "episode_number": "6",
+            "description": "AJ es un niño de ocho años aficionado a la tecnología que, junto a su camión Blaze, se encuentran en la cima de los corredores de Axle City. Piloto y camión viven juntos diversas aventuras y tendrán que resolver sus problemas con la ayuda de las ciencias y las matemáticas.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                }
+            ]
+        },
+         {
+            "id": 321344,"name": "Blaze y los Monster Machines - 07. Caballeros",
+            "type_name": "episode",
+            "episode_number": "7",
+            "description": "AJ es un niño de ocho años aficionado a la tecnología que, junto a su camión Blaze, se encuentran en la cima de los corredores de Axle City. Piloto y camión viven juntos diversas aventuras y tendrán que resolver sus problemas con la ayuda de las ciencias y las matemáticas.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                }
+            ]
+        },
+        {
+            "id": 321351,"name": "Blaze y los Monster Machines - 08. Navidad Monster Machine",
+            "type_name": "episode",
+            "episode_number": "8",
+            "description": "AJ es un niño de ocho años aficionado a la tecnología que, junto a su camión Blaze, se encuentran en la cima de los corredores de Axle City. Piloto y camión viven juntos diversas aventuras y tendrán que resolver sus problemas con la ayuda de las ciencias y las matemáticas.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                }
+            ]
+        },        
+        {
+            "id": 321354,"name": "Blaze y los Monster Machines - 09. ¡Darington a la luna!",
+            "type_name": "episode",
+            "episode_number": "9",
+            "description": "AJ es un niño de ocho años aficionado a la tecnología que, junto a su camión Blaze, se encuentran en la cima de los corredores de Axle City. Piloto y camión viven juntos diversas aventuras y tendrán que resolver sus problemas con la ayuda de las ciencias y las matemáticas.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                }
+            ]
+        },
+        {
+            "id": 321359,"name": "Blaze y los Monster Machines - 10. Bichito chisposo",
+            "type_name": "episode",
+            "episode_number": "10",
+            "description": "AJ es un niño de ocho años aficionado a la tecnología que, junto a su camión Blaze, se encuentran en la cima de los corredores de Axle City. Piloto y camión viven juntos diversas aventuras y tendrán que resolver sus problemas con la ayuda de las ciencias y las matemáticas.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "22"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                }
+            ]
+        }
+    ]
+}

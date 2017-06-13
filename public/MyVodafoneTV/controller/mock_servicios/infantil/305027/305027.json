@@ -1,0 +1,88 @@
+{
+    "status": "ok",
+    "medias": [
+        {
+            "id": 305027,
+            "cid": 0,
+            "title": "Doctora Juguetes",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Doctora Juguetes"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "94704"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "94704"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001271"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2012
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "total_seasons": 1,
+            "seasons": [
+                2
+            ],
+            "type_name": "series",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/847e81c3d9c7480793d79095842bf853_920X602.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/847e81c3d9c7480793d79095842bf853_286X429.jpg"
+            },
+            "orientation": "2:3"
+        }
+    ]
+}

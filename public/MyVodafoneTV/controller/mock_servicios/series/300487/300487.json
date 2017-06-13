@@ -1,0 +1,108 @@
+{
+    "status": "ok",
+    "medias": [
+        {
+            "id": 300487,
+            "cid": 0,
+            "title": "Humans",
+            "description": "No podemos seguir diciendo que son solo máquinas. En la segunda temporada de \"Humans\", la serie de AMC sobre un grupo de robots con emociones y pensamientos propios que trata de liberarse del control humano, los Synths se están 'despertando'. Niska (Emily Berrington) tiene el código que puede volver la conciencia a los robots. Por su parte, Mia (Gemma Chan), Leo (Colin Morgan) y Max (Ivanno Jeremiah) buscan su lugar en el mundo mientras Joe (Tom Goodman-Hill) y Laura Hawkins (Katherine Parkinson) intentan arreglar su matrimonio. Nuevos personajes se añaden a la trama. Entre ellos, la doctora Athena Morrow (Carrie Anne-Moss, la mítica Trinity en la saga \"Matrix\"\"), especialista en Inteligencia Artificial; el billonario Milo Khoury (Marshall Allman) fundador de una empresa líder en tecnología, y Ed (Sam Palladio), dueño de un café que lucha para salvar su negocio familiar.Niska es una fugitiva en Berlín mientras los otros Synths intentan pasar desapercibidos en el Reino Unido.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Parkinson,Katherine|Berrington,Emily|Bradley,Ruth|Tudor,Will|Carless,Lucy|Goodman-Hill,Tom|Davis,Pixie|Cassidy,Sonya|Stevenson,Theo|Morgan,Colin|Chan,Gemma|Moss,Carrie-Anne|Jeremiah,Ivanno|Maskell,Neil|Allman,Marshall"
+                },
+                {
+                    "key": "Country",
+                    "value": "Reino Unido"
+                },
+                {
+                    "key": "Director",
+                    "value": "Arnold,Lewis"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Humans"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Drama"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Tudor,Will|Moss,Carrie-Anne|Jeremiah,Ivanno|Maskell,Neil|Parkinson,Katherine|Bradley,Ruth|Chan,Gemma|Stevenson,Theo|Morgan,Colin|Carless,Lucy|Allman,Marshall|Berrington,Emily|Davis,Pixie|Goodman-Hill,Tom|Cassidy,Sonya"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "255550"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "255550"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Niska es una fugitiva en Berlín mientras los otros Synths intentan pasar desapercibidos en el Reino Unido."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "FDCA0000000000002601"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Drama"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Marshall Allman, Emily Berrington, Ruth Bradley, Lucy Carless, Sonya Cassidy, Gemma Chan, Pixie Davis, Tom Goodman-Hill, Ivanno Jeremiah, Neil Maskell, Colin Morgan, Katherine Parkinson, Theo Stevenson, Will Tudor, Carrie-Anne Moss"
+                },
+                {
+                    "key": "Director display",
+                    "value": "Lewis Arnold"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "total_seasons": 1,
+            "seasons": [
+                2
+            ],
+            "type_name": "series",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/dec7a4b98ffd4693b935f6aa17c721c2_920X602.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/dec7a4b98ffd4693b935f6aa17c721c2_286X429.jpg"
+            },
+            "orientation": "2:3"
+        }
+    ]
+}

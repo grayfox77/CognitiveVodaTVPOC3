@@ -1,0 +1,95 @@
+{
+    "status": "ok",
+    "total_assets": 4,
+    "orientation": "mixed",
+    "assets": [
+        {
+            "id": 321018,
+            "name": "Ley y orden: Unidad de Víctimas Especiales - 06. Instintos maternales",
+            "type_name": "episode",
+            "episode_number": "6",
+            "description": "Rollins se encuentra en una situación sin salida cuando su hermana se convierte en la figura clave de un complejo caso de violación, droga y robo de una flauta con mucho valor.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "40"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 321022,
+            "name": "Ley y orden: Unidad de Víctimas Especiales - 07. Patrimonial Burden",
+            "type_name": "episode",
+            "episode_number": "7",
+            "description": "La familia de un programa de tele realidad comienza a desmoronarse cuando su hija adolescente se da cuenta de que está embarazada.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "40"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 321326,
+            "name": "Ley y orden: Unidad de Víctimas Especiales - 09. Depravity Standard",
+            "type_name": "episode",
+            "episode_number": "9",
+            "description": "Al tratar un antiguo caso el equipo se encuentra con varios obstáculos, incluyendo testigos que se niegan a declarar y a un policía que intenta hacer demasiado. Mientras, Rollins se mete en problemas en el hospital.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "40"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        },
+        {
+            "id": 321328,
+            "name": "Ley y orden: Unidad de Víctimas Especiales - 08. Melancholy Pursuit",
+            "type_name": "episode",
+            "episode_number": "8",
+            "description": "Noah le da un susto a Olivia. El equipo lleva un caso muy complicado en el que tienen que analizar el ADN de un señor muy mujeriego. Dodd, por su parte, está teniendo dificultades con su trabajo.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "41"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        }
+    ]
+}

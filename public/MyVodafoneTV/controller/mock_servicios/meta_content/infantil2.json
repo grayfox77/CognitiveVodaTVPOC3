@@ -1,0 +1,1036 @@
+{
+    "status": "ok",
+    "assets": [
+        {
+            "id": 317158,
+            "cid": 0,
+            "title": "Las Hathaways entre fantasmas",
+            "description": "Las Hathaway dejan atrás la sofisticada ciudad de Nueva York para empezar otra vida en Nueva Orleans, donde se instalan en una nueva casa. El problema es que las chicas deconocían que una famlia de fantasmas tenía la misma intención.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Benymon,Chico|Frank,Amber|Harris,Curtis"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Las Hathaways entre fantasmas"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1|2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Benymon,Chico|Frank,Amber|Harris,Curtis"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "177119"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "177119"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Las Hathaway dejan atrás la sofisticada ciudad de Nueva York para empezar otra vida en Nueva Orleans, donde se instalan en una nueva casa."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NICK0000000000008751"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Amber Frank, Curtis Harris, Chico Benymon"
+                },
+                {
+                    "key": "Year",
+                    "value": 2014
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/85a1923ad08741f89e52e51d09beb91b_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/85a1923ad08741f89e52e51d09beb91b_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 304567,
+            "cid": 0,
+            "title": "Liv y Maddie",
+            "description": "Liv se compromete a asistir, por primera vez en cuatro años, al Wisconsin Cheddar Brat Cheese Eating Contents, pero el estreno de una película pone en peligro que pueda asistir al concurso con Maddie.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Rocha,Kali|Cameron,Dove|Bragg,Joey"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Liv y Maddie"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Rocha,Kali|Cameron,Dove|Bragg,Joey"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "183806"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "183806"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Liv se compromete a asistir al Wisconsin Cheddar Brat Cheese Eating Contents, pero el estreno de una película pone en peligro su asistencia."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001161"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Dove Cameron, Joey Bragg, Kali Rocha"
+                },
+                {
+                    "key": "Year",
+                    "value": 2012
+                },
+                {
+                    "key": "Release year",
+                    "value": 2012
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/65532154c96e4c5abb514069d2c9146f_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/65532154c96e4c5abb514069d2c9146f_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 303504,
+            "cid": 0,
+            "title": "Star contra las fuerzas del mal",
+            "description": "Star intenta curarle el brazo a Marco pero sin querer lo convierte en un tentáculo gigante.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Star contra las fuerzas del mal"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "266232"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "266232"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Star intenta curarle el brazo a Marco pero sin querer lo convierte en un tentáculo gigante."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000002241"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2015
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/34514333bd1c41239e380149a3670bbf_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/34514333bd1c41239e380149a3670bbf_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 299820,
+            "cid": 0,
+            "title": "Los hermanos Kratt",
+            "description": "Los hermanos Kratt, Chris y Martin, viajan a maravillosos lugares del mundo y exploran la naturaleza, encontrando animales increíbles y descubriendo misterios de la vida silvestre. Con la ayuda de la brillante inventora y científica Aviva Corcovado y su equipo, en cada capítulo, los hermanos Kratt se ayudan de sus trajes con súper-poderes para transformarse y poder volar con halcones, nadar en las profundidades del mar con ballenas y pulpos gigantes o caminar sobre el agua con lagartijas curiosas, entre otras aventuras. Chris y Martin también usarán sus poderes para salvar a los animales de los villanos, que planean crear una tropa de robots biotécnicos, congelarlos y venderlos como joyería o hacer experimentos con ellos. Un mundo de animales exóticos, ciencia, peligros y aventuras fascinantes, con el que descubrir planeta y aprender a cuidar a los animales.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Canadá"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Los hermanos Kratt"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "3"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "38003"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "38003"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Los hermanos Kratt viajan a maravillosos lugares del mundo y viven aventuras llenas de misterios, peligros y rescates alucinantes."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "FDCA0000000000002801"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2014
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/7549d9b0138c44e99223be648d7d36d3_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/7549d9b0138c44e99223be648d7d36d3_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 321254,
+            "cid": 0,
+            "title": "Amigas a destiempo",
+            "description": "Tras un experimento fallido, las amigas íntimas Cyd y Shelby obtienen el poder de viajar en el tiempo.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Kamp,Gus|Bender,Landry|Taylor,Lauren"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Amigas a destiempo"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Kamp,Gus|Bender,Landry|Taylor,Lauren"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "314705"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "314705"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Tras un experimento fallido, las amigas íntimas Cyd y Shelby obtienen el poder de viajar en el tiempo."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000009701"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Landry Bender, Lauren Taylor, Gus Kamp"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/7509f6542c3642d3ba04c01dcd31cc96_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/7509f6542c3642d3ba04c01dcd31cc96_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 304572,
+            "cid": 0,
+            "title": "La Princesa Sofía",
+            "description": "Tras la boda de su madre con el Rey, Sofía se traslada a vivir a Palacio, donde deberá aprender a ser una princesa.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "La Princesa Sofía"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1|2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "148100"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "148100"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Tras la boda de su madre con el Rey, Sofía se traslada a vivir a Palacio, donde deberá aprender a ser una princesa."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001371"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2013
+                },
+                {
+                    "key": "Release year",
+                    "value": 2013
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/b4aee2c4b3ca470caf774aec8eded21a_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/b4aee2c4b3ca470caf774aec8eded21a_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 305619,
+            "cid": 0,
+            "title": "La Casa de Mickey Mouse",
+            "description": "En este episodio la pastorcita Daisy pierde a sus diez ovejas.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Director",
+                    "value": "La Duca,Rob"
+                },
+                {
+                    "key": "Series name",
+                    "value": "La casa de Mickey Mouse"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "4974"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "4974"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "En este episodio la pastorcita Daisy pierde a sus diez ovejas."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001311"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2006
+                },
+                {
+                    "key": "Release year",
+                    "value": 2006
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/6e9662d7a00b4125bacaa6681a47973b_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/6e9662d7a00b4125bacaa6681a47973b_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 305027,
+            "cid": 0,
+            "title": "Doctora Juguetes",
+            "description": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Doctora Juguetes"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1|2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "94704"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "94704"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Dottie es una niña que puede hablar con los juguetes. Recoge juguetes rotos y los cura en el patio de su casa."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001271"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2011
+                },
+                {
+                    "key": "Release year",
+                    "value": 2011
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/10977f3e3af24513a0e55413f0954e13_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/10977f3e3af24513a0e55413f0954e13_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 304200,
+            "cid": 0,
+            "title": "Riley y el mundo",
+            "description": "Años después de ver el mundo a través de los ojos de Corey Matthews, es el turno de hacerlo a través de los de la hija que tuvo con su inseparable Top.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Carpenter,Sabrina|Blanchard,Rowan|Savage,Ben|Fishel,Danielle"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Riley y el mundo"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Fishel,Danielle|Carpenter,Sabrina|Blanchard,Rowan|Savage,Ben"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "225417"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "225417"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Años después de ver el mundo a través de los ojos de Corey Matthews, es el turno de hacerlo a través de los de la hija que tuvo con su inseparable Top."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000001171"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Rowan Blanchard, Ben Savage, Danielle Fishel, Sabrina Carpenter"
+                },
+                {
+                    "key": "Year",
+                    "value": 2015
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/4e8ef4dc6594456ea657df21e9258b50_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/4e8ef4dc6594456ea657df21e9258b50_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 301966,
+            "cid": 0,
+            "title": "Breadwinners",
+            "description": "SwaySway y Buhdeuce son unos inseparables amigos patos y repartidores de pan, cuya principal misión es hacer llegar el pedido a todos aquellos picos hambrientos de Ciudad Pato.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Breadwinners"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "212129"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "212129"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "SwaySway y Buhdeuce son unos inseparables amigos patos y repartidores de pan. Su misión es hacer llegar el pedido a todos los picos de Ciudad Pato."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NICK0000000000003351"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2015
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/c44e86d8ac594712807b9751416376b7_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/c44e86d8ac594712807b9751416376b7_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 298668,
+            "cid": 0,
+            "title": "Henry Danger",
+            "description": "Henry Hart, un chico de 13 años, se convierte en el ayudante de Capitán Man, su superhéroe favorito. Juntos vivirán de cerca la acción y protagonizarán aventuras. ¿Sabrá Henry ocultar su identidad secreta?",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Downs,Riele|Anderson,Ella|Barnes,Cooper"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Henry Danger"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Downs,Riele|Anderson,Ella|Barnes,Cooper"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "223039"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "223039"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Henry Hart, un chico de 13 años, se convierte en el ayudante de Capitán Man, su superhéroe favorito. Juntos protagonizarán múltiples aventuras."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NICK0000000000001761"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Ella Anderson, Cooper Barnes, Riele Downs"
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/3dda478bbbee41099e65cf3438346a78_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/3dda478bbbee41099e65cf3438346a78_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 298663,
+            "cid": 0,
+            "title": "Blaze y los Monster Machines",
+            "description": "AJ es un niño de ocho años aficionado a la tecnología que, junto a su camión Blaze, se encuentran en la cima de los corredores de Axle City. Piloto y camión viven juntos diversas aventuras y tendrán que resolver sus problemas con la ayuda de las ciencias y las matemáticas.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Blaze y los Monster Machines"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "238694"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "238694"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "AJ es un niño de ocho años aficionado a la tecnología que, junto a su camión Blaze, se encuentran en la cima de los corredores de Axle City."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NICJ0000000000001771"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2014
+                },
+                {
+                    "key": "Release year",
+                    "value": 2014
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/fc5ac7b7173b40ada0f9857411cf06b2_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/fc5ac7b7173b40ada0f9857411cf06b2_286X429.jpg"
+            },
+            "is_favorite": false
+        }
+    ],
+    "total_assets": 40,
+    "orientation": "2:3",
+    "name": "Series Infantiles"
+}

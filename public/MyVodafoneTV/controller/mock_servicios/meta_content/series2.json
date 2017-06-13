@@ -1,0 +1,1168 @@
+{
+    "status": "ok",
+    "assets": [
+        {
+            "id": 300487,
+            "cid": 0,
+            "title": "Humans",
+            "description": "No podemos seguir diciendo que son solo máquinas. En la segunda temporada de \"Humans\", la serie de AMC sobre un grupo de robots con emociones y pensamientos propios que trata de liberarse del control humano, los Synths se están 'despertando'. Niska (Emily Berrington) tiene el código que puede volver la conciencia a los robots. Por su parte, Mia (Gemma Chan), Leo (Colin Morgan) y Max (Ivanno Jeremiah) buscan su lugar en el mundo mientras Joe (Tom Goodman-Hill) y Laura Hawkins (Katherine Parkinson) intentan arreglar su matrimonio. Nuevos personajes se añaden a la trama. Entre ellos, la doctora Athena Morrow (Carrie Anne-Moss, la mítica Trinity en la saga \"Matrix\"\"), especialista en Inteligencia Artificial; el billonario Milo Khoury (Marshall Allman) fundador de una empresa líder en tecnología, y Ed (Sam Palladio), dueño de un café que lucha para salvar su negocio familiar.Niska es una fugitiva en Berlín mientras los otros Synths intentan pasar desapercibidos en el Reino Unido.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Parkinson,Katherine|Berrington,Emily|Bradley,Ruth|Tudor,Will|Carless,Lucy|Goodman-Hill,Tom|Davis,Pixie|Cassidy,Sonya|Stevenson,Theo|Morgan,Colin|Chan,Gemma|Moss,Carrie-Anne|Jeremiah,Ivanno|Maskell,Neil|Allman,Marshall"
+                },
+                {
+                    "key": "Country",
+                    "value": "Reino Unido"
+                },
+                {
+                    "key": "Director",
+                    "value": "Arnold,Lewis"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Humans"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Drama"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Tudor,Will|Moss,Carrie-Anne|Jeremiah,Ivanno|Maskell,Neil|Parkinson,Katherine|Bradley,Ruth|Chan,Gemma|Stevenson,Theo|Morgan,Colin|Carless,Lucy|Allman,Marshall|Berrington,Emily|Davis,Pixie|Goodman-Hill,Tom|Cassidy,Sonya"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "255550"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "255550"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Niska es una fugitiva en Berlín mientras los otros Synths intentan pasar desapercibidos en el Reino Unido."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "FDCA0000000000002601"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Drama"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Marshall Allman, Emily Berrington, Ruth Bradley, Lucy Carless, Sonya Cassidy, Gemma Chan, Pixie Davis, Tom Goodman-Hill, Ivanno Jeremiah, Neil Maskell, Colin Morgan, Katherine Parkinson, Theo Stevenson, Will Tudor, Carrie-Anne Moss"
+                },
+                {
+                    "key": "Director display",
+                    "value": "Lewis Arnold"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/dec7a4b98ffd4693b935f6aa17c721c2_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/dec7a4b98ffd4693b935f6aa17c721c2_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 305482,
+            "cid": 0,
+            "title": "Mom",
+            "description": "Christy y Bonnie se preocupan por Jill cuando ésta suplica ayuda en el aniversario del suicidio de su madre.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Faris,Anna|Janney,Allison|Jones,Matt|Henggeler,Courtney|Stewart,French"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Director",
+                    "value": "Gorodetsky,Eddie|Lorre,Chuck"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Mom"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "4"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Comedia"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Faris,Anna|Janney,Allison|Jones,Matt|Henggeler,Courtney|Stewart,French"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "177124"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "177124"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Christy y Bonnie se preocupan por Jill cuando ésta suplica ayuda en el aniversario del suicidio de su madre."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "TUBR0000000000004901"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Comedia"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Anna Faris, Courtney Henggeler, Allison Janney, Matt Jones, French Stewart"
+                },
+                {
+                    "key": "Director display",
+                    "value": "Eddie Gorodetsky, Chuck Lorre"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/b10c568840614545b07422e089420299_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/b10c568840614545b07422e089420299_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 303505,
+            "cid": 0,
+            "title": "Black-ish",
+            "description": "La hermana mayor de Pops llega inesperadamente para el Día de Acción de Gracias. Los niños tratan de averiguar por qué Ruby la odia.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Shahidi,Yara|Anderson,Anthony|Ellis Ross,Tracee"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Director",
+                    "value": "Barris,Kenya"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Black-ish"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "3"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Comedia"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Shahidi,Yara|Anderson,Anthony|Ellis Ross,Tracee"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "235625"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "235625"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "La hermana mayor de Pops llega inesperadamente para el Día de Acción de Gracias. Los niños tratan de averiguar por qué Ruby la odia."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "TUBR0000000000004691"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Comedia"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Anthony Anderson, Tracee Ellis Ross, Yara Shahidi"
+                },
+                {
+                    "key": "Director display",
+                    "value": "Kenya Barris"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/6f910fc302fd4f628fbc6680b4cf9881_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/6f910fc302fd4f628fbc6680b4cf9881_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 299545,
+            "cid": 0,
+            "title": "The Flash",
+            "description": "Caitlin visita a su madre para ayudarla a entender sus poderes. Barry intenta convencer a Julian de que le deje ayudarle en su investigación.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Patton,Candice|Panabaker,Danielle|Valdes,Carlos|Gustin,Grant"
+                },
+                {
+                    "key": "Country",
+                    "value": "Española"
+                },
+                {
+                    "key": "Series name",
+                    "value": "The Flash"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "3"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Ciencia Ficción"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Patton,Candice|Panabaker,Danielle|Valdes,Carlos|Gustin,Grant"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "248282"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "248282"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Caitlin visita a su madre para ayudarla a entender sus poderes. Barry intenta convencer a Julian de que le deje ayudarle en su investigación."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "TUBR0000000000001931"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Ciencia Ficción"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Grant Gustin, Candice Patton, Danielle Panabaker, Carlos Valdes"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/09a411ff20ac4be09a81c80c0f1a31ab_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/09a411ff20ac4be09a81c80c0f1a31ab_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 299544,
+            "cid": 0,
+            "title": "Big Bang",
+            "description": "Tras pasar las vacaciones de verano separados, la pandilla se reúne para oir los comentarios del viaje de Sheldon y Amy con la madre de Sheldon, la aventura del árbol de Navidad de Leonard y Penny, y el primer día como padres de Howard y Bernadette.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Cuoco,Kaley|Helberg,Simon|Galecki,Johnny|Parsons,Jim|Nayyar,Kunal"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Director",
+                    "value": "Cendrowski,Mark"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Big Bang"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "10"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Comedia"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Cuoco,Kaley|Helberg,Simon|Galecki,Johnny|Parsons,Jim|Nayyar,Kunal"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "60877"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "60877"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Tras pasar las vacaciones de verano separados, la pandilla se reúne para hablar sobre ellas: el viaje de Sheldon y Amy con la madre de Sheldon..."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "TUBR0000000000001921"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Comedia"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Johnny Galecki, Jim Parsons, Kaley Cuoco, Simon Helberg, Kunal Nayyar"
+                },
+                {
+                    "key": "Director display",
+                    "value": "Mark Cendrowski"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/3f6f36078cbd46238a9a14470e33cf89_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/3f6f36078cbd46238a9a14470e33cf89_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 321102,
+            "cid": 0,
+            "title": "Emerald City",
+            "description": "La fuerza de un tornado transporta a Dorothy desde Kansas hacia otro lejano mundo, una misteriosa tierra en peligro donde se está librando una épica y sangrienta batalla. Se trata de Oz como nunca antes se había conocido. Un lugar donde el todopoderoso Mago ha prohibido los hechizos y controla muchos de los reinos, malvadas brujas conspiran en las sombras y por donde vagan sanguinarios guerreros.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Jackson-Cohen,Oliver|Lucas,Isabel|Arjona,Adria|Howell,Gerran|D'onofrio,Vincent"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Emerald City"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Aventuras"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Jackson-Cohen,Oliver|Lucas,Isabel|Arjona,Adria|Howell,Gerran|D'onofrio,Vincent"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "547156"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "547156"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "La fuerza de un tornado transporta a Dorothy hacia otro lejano mundo, una misteriosa tierra en peligro donde se está librando una batalla épica."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "COSM0000000000009621"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Aventuras"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Gerran Howell, Vincent D'onofrio, Adria Arjona, Oliver Jackson-Cohen, Isabel Lucas"
+                },
+                {
+                    "key": "Year",
+                    "value": 2017
+                },
+                {
+                    "key": "Release year",
+                    "value": 2017
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/2a64aede931e481e998f34ebc4bea16f_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/2a64aede931e481e998f34ebc4bea16f_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 303531,
+            "cid": 0,
+            "title": "Cuéntame cómo pasó",
+            "description": "Abril de 1985. En su celebración de cumpleaños, Paquita invita a todos los Alcántara a cenar en El Descanso, un lugar muy popular entre los militares americanos de la base de Torrejón de Ardoz. Pocas horas después, el restaurante será portada de todos los periódicos e informativos, puse allí se ha producido el primer atentado yihadista de la historia de España.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "4"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Duato,Ana|Rivero,Pablo|Echanove,Juan|Galiana,María|Gómez,Ricardo|Arias,Imanol|Visedo,Irene|Quintana,Lucía|Bloyd,Paloma|Marcos,Cristina|Canalejo,Miguel"
+                },
+                {
+                    "key": "Country",
+                    "value": "Española"
+                },
+                {
+                    "key": "Director",
+                    "value": "Crespi,Agustín|Cano,Antonio"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Cuéntame cómo pasó"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "18"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Drama|Series Españolas"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Duato,Ana|Rivero,Pablo|Echanove,Juan|Galiana,María|Gómez,Ricardo|Arias,Imanol|Visedo,Irene|Quintana,Lucía|Bloyd,Paloma|Marcos,Cristina|Canalejo,Miguel"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "60863"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "60863"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Abril de 1985. Paquita celebra su cumpleaños con los Alcántara en El Descanso, donde horas después se produce el primer atentado yihadista en España."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "RTVE0000000000000281"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Españolas/Drama"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Ana Duato, Imanol Arias, Cristina Marcos, Miguel Canalejo, Lucía Quintana, Paloma Bloyd, Pablo Rivero, Ricardo Gómez, María Galiana, Irene Visedo, Juan Echanove"
+                },
+                {
+                    "key": "Year",
+                    "value": 2017
+                },
+                {
+                    "key": "Release year",
+                    "value": 2017
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/7d9c18b003e7475c8f8f2fde75cc50ce_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/7d9c18b003e7475c8f8f2fde75cc50ce_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 321426,
+            "cid": 0,
+            "title": "Vikingos: al descubierto",
+            "description": "El actor Clive Standen y expertos sobre la cultura nórdica nos explican por qué las invasiones vikingas fueron tan devastadoras y exitosas.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Standen,Clive|Sutherland,Alissa|Winnick,Katheryn"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Vikingos: al descubierto"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Drama"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Standen,Clive|Sutherland,Alissa|Winnick,Katheryn"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "545746"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "545746"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "El actor Clive Standen y expertos sobre la cultura nórdica nos explican por qué las invasiones vikingas fueron tan devastadoras y exitosas."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "TUBR0000000000009751"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Drama"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Clive Standen, Katheryn Winnick, Alissa Sutherland"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/01381075ef6e4e6785c2cb7152e1f1d0_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/01381075ef6e4e6785c2cb7152e1f1d0_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 321579,
+            "cid": 0,
+            "title": "El final del camino",
+            "description": "Galicia, 1075 D.C. Un ataque sarraceno asola Catoira. Gonzalo consigue salvar a su hermano Esteban, pero no puede impedir el asesinato de su madre ni el secuestro de su hermano Pedro por guerreros musulmanes. Esteban y Gonzalo viajan con los supervivientes a Santiago donde las primeras piedras de la catedral están comenzando a colocarse.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Olías,Jaime|Fernández,Juan|Castaño,Cristina|el Mouden,Said|Manzanedo,Paco|Peñalver,Patricia|Etxeandia,Asier"
+                },
+                {
+                    "key": "Country",
+                    "value": "Española"
+                },
+                {
+                    "key": "Director",
+                    "value": "Pedraza,Óscar|Alcantud,Miguel|Conde,Miguel"
+                },
+                {
+                    "key": "Series name",
+                    "value": "El final del camino"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Españolas|Aventuras"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Olías,Jaime|Fernández,Juan|Castaño,Cristina|el Mouden,Said|Manzanedo,Paco|Peñalver,Patricia|Etxeandia,Asier"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "552435"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "552435"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "1075 D.C. Los sarracenos asolan Catoira. Gonzalo salva a su hermano Esteban, pero no puede impedir el asesinato de su madre ni el secuestro de Pedro."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "RTVE0000000000009771"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Españolas/Aventuras"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Asier Etxeandia, Cristina Castaño, Juan Fernández, Patricia Peñalver, Jaime Olías, Paco Manzanedo, Said el Mouden"
+                },
+                {
+                    "key": "Director display",
+                    "value": "Miguel Alcantud, Miguel Conde, Óscar Pedraza"
+                },
+                {
+                    "key": "Year",
+                    "value": 2017
+                },
+                {
+                    "key": "Release year",
+                    "value": 2017
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/f922e94c0a0c48ef89f48bee41bfc5b7_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/f922e94c0a0c48ef89f48bee41bfc5b7_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 320678,
+            "cid": 0,
+            "title": "Aftermath: El fin del mundo",
+            "description": "La familia Copeland lucha por sobrevivir en un mundo apocalíptico amenazado por enormes tormentas, meteoritos, terremotos, una plaga y la aparición de criaturas sobrenaturales.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "13"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Heche,Anne|Tupper,James"
+                },
+                {
+                    "key": "Country",
+                    "value": "Canadá"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Aftermath: El fin del mundo"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Ciencia Ficción"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Heche,Anne|Tupper,James"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "545745"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "545745"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "La familia Copeland lucha por sobrevivir en un mundo apocalíptico amenazado por enormes tormentas, meteoritos, y criaturas sobrenaturales."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NBCU0000000000009571"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Ciencia Ficción"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Anne Heche, James Tupper"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/16087dee12c2457ab47227360e5114ce_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/16087dee12c2457ab47227360e5114ce_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 302989,
+            "cid": 0,
+            "title": "Turno de noche",
+            "description": "Cuando una bomba explota fuera del hospital, TC, Topher y Drew se ven obligados a tomar la difícil decisión de quedarse y tratar a los heridos o evacuar y comenzar los traslados a los hospitales cercanos. Todo cambia cuando TC se da cuenta de que puede conocer al responsable de la explosión. Mientras el equipo trabaja a contratiempo para atender a los heridos, las enfermeras se ponen en huelga.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Flint,Jill|Bailey Jr.,Robert|Leung,Ken|Fehr,Brendan|Macken,Eoin"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Turno de noche"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "3"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Acción"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Flint,Jill|Bailey Jr.,Robert|Leung,Ken|Fehr,Brendan|Macken,Eoin"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "274689"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "274689"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Cuando una bomba explota fuera del hospital, TC, Topher y Drew se ven obligados a tomar una difícil decisión."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "FOXC0000000000003641"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Acción"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Eoin Macken, Jill Flint, Ken Leung, Brendan Fehr, Robert Bailey Jr."
+                },
+                {
+                    "key": "Year",
+                    "value": 2015
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/2e4e2a93590e49abab7cee4bb404c05d_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/2e4e2a93590e49abab7cee4bb404c05d_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 302305,
+            "cid": 0,
+            "title": "Mar de plástico HD",
+            "description": "Tras el encarcelamiento de Fernando Rueda como asesino de Ainhoa, la calma parecía haber vuelto a Campoamargo hasta que otro crimen, el de Marta Ezquerro, sacude a la población del pequeño pueblo costero…",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Sancho,Rodolfo|Casablanc,Pedro|López,Belén|Castro,Jesús|Ramos,Yaima"
+                },
+                {
+                    "key": "Country",
+                    "value": "Española"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Mar de plástico HD"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Españolas|Suspense"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Castro,Jesús|Casablanc,Pedro|Sancho,Rodolfo|López,Belén|Ramos,Yaima"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "312287"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "312287"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Tras el encarcelamiento de Fernando Rueda como asesino de Ainhoa, la calma parecía haber vuelto a Campoamargo hasta que descubren otro crimen."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "ANTE0000000000003981"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Españolas/Suspense"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Rodolfo Sancho, Belén López, Jesús Castro, Yaima Ramos, Pedro Casablanc"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/d2a5c760267541a48f2850557a5846fc_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/d2a5c760267541a48f2850557a5846fc_286X429.jpg"
+            },
+            "is_favorite": false
+        }
+    ],
+    "total_assets": 96,
+    "orientation": "2:3",
+    "name": "Series"
+}

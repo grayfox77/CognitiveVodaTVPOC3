@@ -1,0 +1,50 @@
+<div id="VNcarousel" class="carousel slide row" data-ride="carousel">
+    <ol class="carousel-indicators">
+        <!--li data-target="#VNcarousel" data-slide-to="0" class="active"></li>
+                                    <li data-target="#VNcarousel" data-slide-to="1"></li>
+                                    <li data-target="#VNcarousel" data-slide-to="2"></li>
+                                    <li data-target="#VNcarousel" data-slide-to="3"></li>
+                                    <li data-target="#VNcarousel" data-slide-to="4"></li>
+                                    <li data-target="#VNcarousel" data-slide-to="5"></li>
+                                    <li data-target="#VNcarousel" data-slide-to="6"></li>
+                                    <li data-target="#VNcarousel" data-slide-to="7"></li>
+                                    <li data-target="#VNcarousel" data-slide-to="8"></li-->
+
+        <li data-target="#VNcarousel" ng-repeat="viewitem in listItem" data-slide-to="$index"></li>
+
+    </ol>
+    <div class='carousel-inner' role="listbox">
+        <!--div id="itemTemplate" class='form item row active'>	                                        
+                                        <div class="col-md-12 item-content">
+                                            <div class="item-leyend">
+                                                 <h3 id="itemTitle">Capitan America vs. Iron Man</h3>
+                                                 <h4 id="itemDesc">Capitan America: Civil War</h4>
+                                            </div>
+                                        </div>                                        
+                                    </div-->
+        <div id="itemTemplate" class='form item row' ng-repeat="viewitem in listItem" ng-class="{ 'active':$first }">
+            <!--div class="col-md-12 item-content" ng-style ="{'background-image': 'url(' + viewitem.url + ')' }"-->
+            <div class="col-md-12 item-content">
+                <img src="{{viewitem.url}}" />
+                <div class="item-leyend">
+                    <h1 id="itemTitle">{{viewitem.title}}</h1>
+                    <h5 id="itemDesc">{{viewitem.description}}</h5>
+                </div>
+            </div>
+        </div>
+        <!--div class='form item row'>                                        
+                                        <div class="col-md-12 item-content" style="background: url('https://tv.vodafone.es/wp-content/uploads/2016/11/peter-y-el-dragon-wallpapers.jpg') center center">                                            	
+                                            <div class="item-leyend"> CONTENIDO 2</div>
+                                        </div>                                        
+                                    </div-->
+    </div>
+    <!-- Controls -->
+    <a class="left carousel-control" href="#VNcarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#VNcarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>

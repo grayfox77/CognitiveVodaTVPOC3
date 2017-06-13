@@ -1,0 +1,88 @@
+{
+    "status": "ok",
+    "medias": [
+        {
+            "id": 320813,
+            "cid": 0,
+            "title": "¡Gusano Marciano!",
+            "description": "Gus nunca ha probado los cereales favoritos de Danny.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Infantil"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "¡Gusano Marciano!"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Infantil"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "239540"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "239540"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Gus nunca ha probado los cereales favoritos de Danny."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "DISN0000000000009501"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Infantil"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "total_seasons": 1,
+            "seasons": [
+                1
+            ],
+            "type_name": "series",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/fef624e9cec24c509f472b482389ccfc_920X602.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/fef624e9cec24c509f472b482389ccfc_286X429.jpg"
+            },
+            "orientation": "2:3"
+        }
+    ]
+}

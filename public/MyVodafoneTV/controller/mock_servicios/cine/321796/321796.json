@@ -1,0 +1,173 @@
+{
+    "status": "ok",
+    "medias": [
+        {
+            "id": 321796,
+            "cid": 0,
+            "title": "No habrá paz para los malvados",
+            "description": "Mientras busca a una joven desaparecida, el inspector de policía Santos Trinidad se ve involucrado en un tiroteo. El resultado: tres muertos y un testigo que huye. La encargada de investigar el caso es la juez Chacón. Mientras Santos intenta explicar qué ocurrió esa noche, avanzan meticulosamente en la investigación y descubren que lo que parecía un caso de tráfico de drogas es algo más peligroso.",
+            "files": {
+                "sd": {
+                    "file_id": 610099,
+                    "url": "http://vfottcdn.gb.vodafone.es/shss/TECI2017011500200042/2.ism/Manifest?device=HSS_PC_ENC_VOD_SD"
+                }
+            },
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Cine|Cine/Acción-Thriller"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Sancho,Rodolfo|Coronado,José|Artero,Juanjo|Farelo,Eduard|Casado,Nadia|Pablo Schuck,Juan|María Sánchez,Pedro|Bachir,Younes|El Kerem,Karim|Saleh,Nasser|Ali El Aziz,Abdel|Miquel,Helena"
+                },
+                {
+                    "key": "Country",
+                    "value": "Española"
+                },
+                {
+                    "key": "Director",
+                    "value": "Urbizu,Enrique"
+                },
+                {
+                    "key": "Ono Package ID",
+                    "value": "PVOD"
+                },
+                {
+                    "key": "Audio type",
+                    "value": "Stereo"
+                },
+                {
+                    "key": "Audio stream",
+                    "value": "spa,Stereo"
+                },
+                {
+                    "key": "Screen format",
+                    "value": "16:9"
+                },
+                {
+                    "key": "Rating Display",
+                    "value": "12"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Coronado,José|Sancho,Rodolfo|Artero,Juanjo|Farelo,Eduard|Casado,Nadia|Pablo Schuck,Juan|María Sánchez,Pedro|Bachir,Younes|El Kerem,Karim|Saleh,Nasser|Ali El Aziz,Abdel|Miquel,Helena"
+                },
+                {
+                    "key": "Audio description available",
+                    "value": "es"
+                },
+                {
+                    "key": "ContentTags",
+                    "value": "s_en"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Cine|Acción"
+                },
+                {
+                    "key": "Country_Tag",
+                    "value": "ES"
+                },
+                {
+                    "key": "Target",
+                    "value": "STB|DCTI384"
+                },
+                {
+                    "key": "Provider",
+                    "value": "Tele5Cine"
+                },
+                {
+                    "key": "Provider ID",
+                    "value": "tele5cine.es"
+                },
+                {
+                    "key": "Billing ID",
+                    "value": "20004"
+                },
+                {
+                    "key": "Licensing Window End",
+                    "value": "2017-10-14T00:00"
+                },
+                {
+                    "key": "External program ID",
+                    "value": "94680"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Mientras investiga una desaparición, el policía Santos Trinidad se ve involucrado en un tiroteo. El resultado: tres muertos y un testigo que huye."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "TECI2017011500200041"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Cine/Acción"
+                },
+                {
+                    "key": "Display_Run_Time",
+                    "value": "01:49"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "José Coronado, Rodolfo Sancho, Helena Miquel, Juanjo Artero, Pedro María Sánchez, Younes Bachir, Nadia Casado, Juan Pablo Schuck, Eduard Farelo, Karim El Kerem, Abdel Ali El Aziz, Nasser Saleh"
+                },
+                {
+                    "key": "Director display",
+                    "value": "Enrique Urbizu"
+                },
+                {
+                    "key": "Provider QA contact",
+                    "value": "tele5cine.es"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "109"
+                },
+                {
+                    "key": "Year",
+                    "value": 2011
+                },
+                {
+                    "key": "Display as new",
+                    "value": 0
+                },
+                {
+                    "key": "Display as last chance",
+                    "value": 0
+                },
+                {
+                    "key": "Release year",
+                    "value": 2011
+                },
+                {
+                    "key": "Asset Is Active",
+                    "value": false
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsVODCatchUp",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "movie",
+            "pictures": {
+                "player": "http://kal-images.ono.es/app_posters/3ba9ff0ed10e4082902c044cfb7532d4_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/3ba9ff0ed10e4082902c044cfb7532d4_286X429.jpg"
+            },
+            "orientation": "2:3"
+        }
+    ]
+}

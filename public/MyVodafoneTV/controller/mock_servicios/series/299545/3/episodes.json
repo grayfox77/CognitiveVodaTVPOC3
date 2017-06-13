@@ -1,0 +1,29 @@
+{
+    "status": "ok",
+    "total_assets": 1,
+    "orientation": "mixed",
+    "assets": [
+        {
+            "id": 321592,
+            "name": "The Flash - 05. Monstruo",
+            "type_name": "episode",
+            "episode_number": "5",
+            "description": "Caitlin visita a su madre para ayudarla a entender sus poderes. Barry intenta convencer a Julian de que le deje ayudarle en su investigación.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "40"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        }
+    ]
+}

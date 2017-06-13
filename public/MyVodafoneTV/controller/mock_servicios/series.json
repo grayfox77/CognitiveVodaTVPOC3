@@ -1,0 +1,873 @@
+{
+    "status": "ok",
+    "assets": [       
+        {
+            "id": 299150,
+            "cid": 0,
+            "title": "Ley y orden: Unidad de Víctimas Especiales",
+            "description": "La Unidad intenta destapar los secretos que esconde Carl Rudrick, el médico forense de Manhattan. Un conocido del Dr. Yates será la figura clave que ayude a resolver el caso.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Hargitay,Mariska|,Ice-T"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Ley y orden: Unidad de Víctimas Especiales"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "17"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Policíaca"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Hargitay,Mariska|,Ice-T"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "5548"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "5548"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "La Unidad intenta destapar los secretos que esconde Carl Rudrick, el médico forense de Manhattan. Un conocido del Dr. Yates será clave para resolver el caso."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NBCU0000000000001501"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Policíaca"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Mariska Hargitay, Ice-T"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/c95141ce7ba4409dbba08f141cfb8d51_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/c95141ce7ba4409dbba08f141cfb8d51_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 303094,
+            "cid": 0,
+            "title": "Hawai 5-0",
+            "description": "El equipo debe trabajar con el agente MI-6 Harry Langford para encontrar a un terrorista que planea causar explosiones nucleares en toda Europa. A su vez, McGarrett y Danny piden ayuda a la profesora retirada del FBI, Alicia Brown, para ayudarles a encontrar a su asesino en serie.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Actors",
+                    "value": "O'Loughlin,Alex|Caan,Scott|Dae Kim,Daniel"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Hawai 5-0"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "7"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Acción"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "O'Loughlin,Alex|Caan,Scott|Dae Kim,Daniel"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "10025"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "10025"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "El equipo debe trabajar con el agente MI-6 Harry Langford para encontrar a un terrorista que planea causar explosiones nucleares en toda Europa."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "FOXC0000000000003541"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Acción"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Alex O'Loughlin, Scott Caan, Daniel Dae Kim"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/e7ebb601c8034dd2944b162557390ec5_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/e7ebb601c8034dd2944b162557390ec5_286X429.jpg"
+            },
+            "is_favorite": false
+        },             
+        {
+            "id": 303991,
+            "cid": 0,
+            "title": "Vikingos",
+            "description": "Ragnar yace enfermo en su lecho con lo que ciertos acontecimientos escapan a su control. Bjorn ordena detener a Floki por el asesinato de Athelstan.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Skarsgård,Gustaf|Fimmel,Travis|Standen,Clive"
+                },
+                {
+                    "key": "Country",
+                    "value": "Canadá/Irlanda"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Vikingos"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "4"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Acción"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Skarsgård,Gustaf|Fimmel,Travis|Standen,Clive"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "154992"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "154992"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Ragnar yace enfermo en su lecho con lo que ciertos acontecimientos escapan a su control. Bjorn ordena detener a Floki por el asesinato de Athelstan."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "TUBR0000000000004701"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Acción"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Travis Fimmel, Clive Standen, Gustaf Skarsgård"
+                },
+                {
+                    "key": "Year",
+                    "value": 2015
+                },
+                {
+                    "key": "Release year",
+                    "value": 2015
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/83d030d266244b209426d4b473f1f928_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/83d030d266244b209426d4b473f1f928_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 320385,
+            "cid": 0,
+            "title": "Childhood's End: El fin de la infancia",
+            "description": "Una presencia alienígena invade la Tierra con la intención de terminar con el sufrimiento y guiar a la humanidad hacia una utopía. Pero cuando los aliens se niegan a revelar su apariencia algunos se preguntan si este sueño será una pesadilla.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "13"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Betts,Daisy|Ikhile,Osy|Dance,Charles|Vogel,Mike"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Childhood's End: El fin de la infancia"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "1"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Ciencia Ficción"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Betts,Daisy|Ikhile,Osy|Dance,Charles|Vogel,Mike"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "532599"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "532599"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Una presencia alienígena invade la Tierra con la intención de terminar con el sufrimiento y guiar a la humanidad hacia una utopía."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "NBCU0000000000009451"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Ciencia Ficción"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Charles Dance, Mike Vogel, Daisy Betts, Osy Ikhile"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/fd2ada59b78d4e0c939ae8c077247366_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/fd2ada59b78d4e0c939ae8c077247366_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 299545,
+            "cid": 0,
+            "title": "The Flash",
+            "description": "Caitlin visita a su madre para ayudarla a entender sus poderes. Barry intenta convencer a Julian de que le deje ayudarle en su investigación.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Patton,Candice|Panabaker,Danielle|Valdes,Carlos|Gustin,Grant"
+                },
+                {
+                    "key": "Country",
+                    "value": "Española"
+                },
+                {
+                    "key": "Series name",
+                    "value": "The Flash"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "3"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Ciencia Ficción"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Patton,Candice|Panabaker,Danielle|Valdes,Carlos|Gustin,Grant"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "248282"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "248282"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Caitlin visita a su madre para ayudarla a entender sus poderes. Barry intenta convencer a Julian de que le deje ayudarle en su investigación."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "TUBR0000000000001931"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Ciencia Ficción"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Grant Gustin, Candice Patton, Danielle Panabaker, Carlos Valdes"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/09a411ff20ac4be09a81c80c0f1a31ab_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/09a411ff20ac4be09a81c80c0f1a31ab_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 299544,
+            "cid": 0,
+            "title": "Big Bang",
+            "description": "Tras pasar las vacaciones de verano separados, la pandilla se reúne para oir los comentarios del viaje de Sheldon y Amy con la madre de Sheldon, la aventura del árbol de Navidad de Leonard y Penny, y el primer día como padres de Howard y Bernadette.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Cuoco,Kaley|Helberg,Simon|Galecki,Johnny|Parsons,Jim|Nayyar,Kunal"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Director",
+                    "value": "Cendrowski,Mark"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Big Bang"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "10"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Comedia"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Cuoco,Kaley|Helberg,Simon|Galecki,Johnny|Parsons,Jim|Nayyar,Kunal"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "60877"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "60877"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Tras pasar las vacaciones de verano separados, la pandilla se reúne para hablar sobre ellas: el viaje de Sheldon y Amy con la madre de Sheldon..."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "TUBR0000000000001921"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Comedia"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Johnny Galecki, Jim Parsons, Kaley Cuoco, Simon Helberg, Kunal Nayyar"
+                },
+                {
+                    "key": "Director display",
+                    "value": "Mark Cendrowski"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/3f6f36078cbd46238a9a14470e33cf89_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/3f6f36078cbd46238a9a14470e33cf89_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 300487,
+            "cid": 0,
+            "title": "Humans",
+            "description": "No podemos seguir diciendo que son solo máquinas. En la segunda temporada de \"Humans\", la serie de AMC sobre un grupo de robots con emociones y pensamientos propios que trata de liberarse del control humano, los Synths se están 'despertando'. Niska (Emily Berrington) tiene el código que puede volver la conciencia a los robots. Por su parte, Mia (Gemma Chan), Leo (Colin Morgan) y Max (Ivanno Jeremiah) buscan su lugar en el mundo mientras Joe (Tom Goodman-Hill) y Laura Hawkins (Katherine Parkinson) intentan arreglar su matrimonio. Nuevos personajes se añaden a la trama. Entre ellos, la doctora Athena Morrow (Carrie Anne-Moss, la mítica Trinity en la saga \"Matrix\"\"), especialista en Inteligencia Artificial; el billonario Milo Khoury (Marshall Allman) fundador de una empresa líder en tecnología, y Ed (Sam Palladio), dueño de un café que lucha para salvar su negocio familiar.Niska es una fugitiva en Berlín mientras los otros Synths intentan pasar desapercibidos en el Reino Unido.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Parkinson,Katherine|Berrington,Emily|Bradley,Ruth|Tudor,Will|Carless,Lucy|Goodman-Hill,Tom|Davis,Pixie|Cassidy,Sonya|Stevenson,Theo|Morgan,Colin|Chan,Gemma|Moss,Carrie-Anne|Jeremiah,Ivanno|Maskell,Neil|Allman,Marshall"
+                },
+                {
+                    "key": "Country",
+                    "value": "Reino Unido"
+                },
+                {
+                    "key": "Director",
+                    "value": "Arnold,Lewis"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Humans"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "2"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Drama"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Tudor,Will|Moss,Carrie-Anne|Jeremiah,Ivanno|Maskell,Neil|Parkinson,Katherine|Bradley,Ruth|Chan,Gemma|Stevenson,Theo|Morgan,Colin|Carless,Lucy|Allman,Marshall|Berrington,Emily|Davis,Pixie|Goodman-Hill,Tom|Cassidy,Sonya"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "255550"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "255550"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Niska es una fugitiva en Berlín mientras los otros Synths intentan pasar desapercibidos en el Reino Unido."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "FDCA0000000000002601"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Drama"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Marshall Allman, Emily Berrington, Ruth Bradley, Lucy Carless, Sonya Cassidy, Gemma Chan, Pixie Davis, Tom Goodman-Hill, Ivanno Jeremiah, Neil Maskell, Colin Morgan, Katherine Parkinson, Theo Stevenson, Will Tudor, Carrie-Anne Moss"
+                },
+                {
+                    "key": "Director display",
+                    "value": "Lewis Arnold"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/dec7a4b98ffd4693b935f6aa17c721c2_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/dec7a4b98ffd4693b935f6aa17c721c2_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 303505,
+            "cid": 0,
+            "title": "Black-ish",
+            "description": "La hermana mayor de Pops llega inesperadamente para el Día de Acción de Gracias. Los niños tratan de averiguar por qué Ruby la odia.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "17"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Shahidi,Yara|Anderson,Anthony|Ellis Ross,Tracee"
+                },
+                {
+                    "key": "Country",
+                    "value": "Estados Unidos"
+                },
+                {
+                    "key": "Director",
+                    "value": "Barris,Kenya"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Black-ish"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "3"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Series Extranjeras|Comedia"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Shahidi,Yara|Anderson,Anthony|Ellis Ross,Tracee"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "235625"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "235625"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "La hermana mayor de Pops llega inesperadamente para el Día de Acción de Gracias. Los niños tratan de averiguar por qué Ruby la odia."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "TUBR0000000000004691"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Extranjeras/Comedia"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Anthony Anderson, Tracee Ellis Ross, Yara Shahidi"
+                },
+                {
+                    "key": "Director display",
+                    "value": "Kenya Barris"
+                },
+                {
+                    "key": "Year",
+                    "value": 2016
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/6f910fc302fd4f628fbc6680b4cf9881_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/6f910fc302fd4f628fbc6680b4cf9881_286X429.jpg"
+            },
+            "is_favorite": false
+        },
+        {
+            "id": 303531,
+            "cid": 0,
+            "title": "Cuéntame cómo pasó",
+            "description": "Abril de 1985. En su celebración de cumpleaños, Paquita invita a todos los Alcántara a cenar en El Descanso, un lugar muy popular entre los militares americanos de la base de Torrejón de Ardoz. Pocas horas después, el restaurante será portada de todos los periódicos e informativos, puse allí se ha producido el primer atentado yihadista de la historia de España.",
+            "files": null,
+            "tags_metas": [
+                {
+                    "key": "Category",
+                    "value": "Series"
+                },
+                {
+                    "key": "Parental Rating",
+                    "value": "4"
+                },
+                {
+                    "key": "Actors",
+                    "value": "Duato,Ana|Rivero,Pablo|Echanove,Juan|Galiana,María|Gómez,Ricardo|Arias,Imanol|Visedo,Irene|Quintana,Lucía|Bloyd,Paloma|Marcos,Cristina|Canalejo,Miguel"
+                },
+                {
+                    "key": "Country",
+                    "value": "Española"
+                },
+                {
+                    "key": "Director",
+                    "value": "Crespi,Agustín|Cano,Antonio"
+                },
+                {
+                    "key": "Series name",
+                    "value": "Cuéntame cómo pasó"
+                },
+                {
+                    "key": "Season Numbers",
+                    "value": "18"
+                },
+                {
+                    "key": "Genre_Tag",
+                    "value": "Drama|Series Españolas"
+                },
+                {
+                    "key": "Main cast",
+                    "value": "Duato,Ana|Rivero,Pablo|Echanove,Juan|Galiana,María|Gómez,Ricardo|Arias,Imanol|Visedo,Irene|Quintana,Lucía|Bloyd,Paloma|Marcos,Cristina|Canalejo,Miguel"
+                },
+                {
+                    "key": "Series ID",
+                    "value": "60863"
+                },
+                {
+                    "key": "Target",
+                    "value": "DCTI384|STB"
+                },
+                {
+                    "key": "SeriesId ",
+                    "value": "60863"
+                },
+                {
+                    "key": "Summary short",
+                    "value": "Abril de 1985. Paquita celebra su cumpleaños con los Alcántara en El Descanso, donde horas después se produce el primer atentado yihadista en España."
+                },
+                {
+                    "key": "External ONO ID",
+                    "value": "RTVE0000000000000281"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Series Españolas/Drama"
+                },
+                {
+                    "key": "Actors display",
+                    "value": "Ana Duato, Imanol Arias, Cristina Marcos, Miguel Canalejo, Lucía Quintana, Paloma Bloyd, Pablo Rivero, Ricardo Gómez, María Galiana, Irene Visedo, Juan Echanove"
+                },
+                {
+                    "key": "Year",
+                    "value": 2017
+                },
+                {
+                    "key": "Release year",
+                    "value": 2017
+                },
+                {
+                    "key": "Suggestion",
+                    "value": false
+                },
+                {
+                    "key": "IsDeepLink",
+                    "value": false
+                }
+            ],
+            "type_name": "series",
+            "synopsis": "",
+            "orientation": "2:3",
+            "pictures": {
+                "banner": "http://kal-images.ono.es/app_posters/7d9c18b003e7475c8f8f2fde75cc50ce_302X170.jpg",
+                "poster": "http://kal-images.ono.es/app_posters/7d9c18b003e7475c8f8f2fde75cc50ce_286X429.jpg"
+            },
+            "is_favorite": false
+        }        
+    ],
+    "total_assets": 86,
+    "orientation": "2:3",
+    "name": "Series"
+}

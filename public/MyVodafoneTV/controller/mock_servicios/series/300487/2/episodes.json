@@ -1,0 +1,29 @@
+{
+    "status": "ok",
+    "total_assets": 1,
+    "orientation": "mixed",
+    "assets": [
+        {
+            "id": 321499,
+            "name": "Humans - Episodio: 01",
+            "type_name": "episode",
+            "episode_number": "1",
+            "description": "No podemos seguir diciendo que son solo máquinas. En la segunda temporada de \"Humans\", la serie de AMC sobre un grupo de robots con emociones y pensamientos propios que trata de liberarse del control humano, los Synths se están 'despertando'. Niska (Emily Berrington) tiene el código que puede volver la conciencia a los robots. Por su parte, Mia (Gemma Chan), Leo (Colin Morgan) y Max (Ivanno Jeremiah) buscan su lugar en el mundo mientras Joe (Tom Goodman-Hill) y Laura Hawkins (Katherine Parkinson) intentan arreglar su matrimonio. Nuevos personajes se añaden a la trama. Entre ellos, la doctora Athena Morrow (Carrie Anne-Moss, la mítica Trinity en la saga \"Matrix\"\"), especialista en Inteligencia Artificial; el billonario Milo Khoury (Marshall Allman) fundador de una empresa líder en tecnología, y Ed (Sam Palladio), dueño de un café que lucha para salvar su negocio familiar.Niska es una fugitiva en Berlín mientras los otros Synths intentan pasar desapercibidos en el Reino Unido.",
+            "synopsis": null,
+            "tags_metas": [
+                {
+                    "key": "Parental Rating",
+                    "value": "9"
+                },
+                {
+                    "key": "Runtime",
+                    "value": "46"
+                },
+                {
+                    "key": "Release year",
+                    "value": 2016
+                }
+            ]
+        }
+    ]
+}
